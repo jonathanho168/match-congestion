@@ -23,8 +23,8 @@ driver = webdriver.Chrome(service=service, options=chrome_options)
 wait = WebDriverWait(driver, 20)
 print("→ Driver started")
 
-DATASOURCES = '../links/spain_links.csv'
-OUTPUT_FILE = '../results/all_spain_matches.csv'
+DATASOURCES = '../links/england_links.csv'
+OUTPUT_FILE = '../results/all_england_matches.csv'
 
 # -- HELPER FUNCTIONS ───────────────────────────────────────────────────────────
 
