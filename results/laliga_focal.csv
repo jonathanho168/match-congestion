@@ -1,0 +1,1901 @@
+Date,HomeTeam,AwayTeam,FTHG,FTAG
+2014-08-23,Almeria,Espanol,1,1
+2014-08-23,Granada,La Coruna,2,1
+2014-08-23,Malaga,Ath Bilbao,1,0
+2014-08-23,Sevilla,Valencia,1,1
+2014-08-24,Barcelona,Elche,3,0
+2014-08-24,Celta,Getafe,3,1
+2014-08-24,Eibar,Sociedad,1,0
+2014-08-24,Levante,Villarreal,0,2
+2014-08-25,Real Madrid,Cordoba,2,0
+2014-08-25,Vallecano,Ath Madrid,0,0
+2014-08-29,Getafe,Almeria,1,0
+2014-08-29,Valencia,Malaga,3,0
+2014-08-30,Ath Bilbao,Levante,3,0
+2014-08-30,Ath Madrid,Eibar,2,1
+2014-08-30,Cordoba,Celta,1,1
+2014-08-30,Espanol,Sevilla,1,2
+2014-08-31,Elche,Granada,1,1
+2014-08-31,La Coruna,Vallecano,2,2
+2014-08-31,Sociedad,Real Madrid,4,2
+2014-08-31,Villarreal,Barcelona,0,1
+2014-09-12,Almeria,Cordoba,1,1
+2014-09-13,Barcelona,Ath Bilbao,2,0
+2014-09-13,Celta,Sociedad,2,2
+2014-09-13,Malaga,Levante,0,0
+2014-09-13,Real Madrid,Ath Madrid,1,2
+2014-09-14,Granada,Villarreal,0,0
+2014-09-14,Sevilla,Getafe,2,0
+2014-09-14,Valencia,Espanol,3,1
+2014-09-14,Vallecano,Elche,2,3
+2014-09-15,Eibar,La Coruna,0,1
+2014-09-19,Elche,Eibar,0,2
+2014-09-20,Ath Bilbao,Granada,0,1
+2014-09-20,Ath Madrid,Celta,2,2
+2014-09-20,Espanol,Malaga,2,2
+2014-09-20,La Coruna,Real Madrid,2,8
+2014-09-21,Cordoba,Sevilla,1,3
+2014-09-21,Levante,Barcelona,0,5
+2014-09-21,Sociedad,Almeria,1,2
+2014-09-21,Villarreal,Vallecano,4,2
+2014-09-22,Getafe,Valencia,0,3
+2014-09-23,Celta,La Coruna,2,1
+2014-09-23,Real Madrid,Elche,5,1
+2014-09-24,Almeria,Ath Madrid,0,1
+2014-09-24,Eibar,Villarreal,1,1
+2014-09-24,Granada,Levante,0,1
+2014-09-24,Malaga,Barcelona,0,0
+2014-09-24,Sevilla,Sociedad,1,0
+2014-09-24,Vallecano,Ath Bilbao,2,1
+2014-09-25,Espanol,Getafe,2,0
+2014-09-25,Valencia,Cordoba,3,0
+2014-09-26,Elche,Celta,0,1
+2014-09-27,Ath Bilbao,Eibar,0,0
+2014-09-27,Ath Madrid,Sevilla,4,0
+2014-09-27,Barcelona,Granada,6,0
+2014-09-27,Levante,Vallecano,0,2
+2014-09-27,Villarreal,Real Madrid,0,2
+2014-09-28,Cordoba,Espanol,0,0
+2014-09-28,Getafe,Malaga,1,0
+2014-09-28,La Coruna,Almeria,0,1
+2014-09-28,Sociedad,Valencia,1,1
+2014-10-03,Getafe,Cordoba,1,1
+2014-10-04,Almeria,Elche,2,2
+2014-10-04,Eibar,Levante,3,3
+2014-10-04,Malaga,Granada,2,1
+2014-10-04,Valencia,Ath Madrid,3,1
+2014-10-04,Vallecano,Barcelona,0,2
+2014-10-05,Celta,Villarreal,1,3
+2014-10-05,Espanol,Sociedad,2,0
+2014-10-05,Real Madrid,Ath Bilbao,5,0
+2014-10-05,Sevilla,La Coruna,4,1
+2014-10-17,Granada,Vallecano,0,1
+2014-10-18,Ath Bilbao,Celta,1,1
+2014-10-18,Barcelona,Eibar,3,0
+2014-10-18,Cordoba,Malaga,1,2
+2014-10-18,Levante,Real Madrid,0,5
+2014-10-19,Ath Madrid,Espanol,2,0
+2014-10-19,Elche,Sevilla,0,2
+2014-10-19,La Coruna,Valencia,3,0
+2014-10-19,Villarreal,Almeria,2,0
+2014-10-20,Sociedad,Getafe,1,2
+2014-10-24,Celta,Levante,3,0
+2014-10-25,Almeria,Ath Bilbao,0,1
+2014-10-25,Cordoba,Sociedad,1,1
+2014-10-25,Eibar,Granada,1,1
+2014-10-25,Real Madrid,Barcelona,3,1
+2014-10-25,Valencia,Elche,3,1
+2014-10-26,Espanol,La Coruna,0,0
+2014-10-26,Getafe,Ath Madrid,0,1
+2014-10-26,Malaga,Vallecano,4,0
+2014-10-26,Sevilla,Villarreal,2,1
+2014-10-31,La Coruna,Getafe,1,2
+2014-11-01,Ath Madrid,Cordoba,4,2
+2014-11-01,Barcelona,Celta,0,1
+2014-11-01,Granada,Real Madrid,0,4
+2014-11-01,Sociedad,Malaga,0,1
+2014-11-02,Ath Bilbao,Sevilla,1,0
+2014-11-02,Elche,Espanol,2,1
+2014-11-02,Levante,Almeria,2,1
+2014-11-02,Villarreal,Valencia,1,3
+2014-11-03,Vallecano,Eibar,2,3
+2014-11-07,Cordoba,La Coruna,0,0
+2014-11-08,Almeria,Barcelona,1,2
+2014-11-08,Celta,Granada,0,0
+2014-11-08,Getafe,Elche,0,0
+2014-11-08,Malaga,Eibar,2,1
+2014-11-08,Real Madrid,Vallecano,5,1
+2014-11-09,Espanol,Villarreal,1,1
+2014-11-09,Sevilla,Levante,1,1
+2014-11-09,Sociedad,Ath Madrid,2,1
+2014-11-09,Valencia,Ath Bilbao,0,0
+2014-11-21,Ath Bilbao,Espanol,3,1
+2014-11-22,Ath Madrid,Malaga,3,1
+2014-11-22,Barcelona,Sevilla,5,1
+2014-11-22,Eibar,Real Madrid,0,4
+2014-11-22,La Coruna,Sociedad,0,0
+2014-11-23,Elche,Cordoba,2,2
+2014-11-23,Levante,Valencia,2,1
+2014-11-23,Vallecano,Celta,1,0
+2014-11-23,Villarreal,Getafe,2,1
+2014-11-24,Granada,Almeria,0,0
+2014-11-28,Sociedad,Elche,3,0
+2014-11-29,Celta,Eibar,0,1
+2014-11-29,Espanol,Levante,2,1
+2014-11-29,Getafe,Ath Bilbao,1,2
+2014-11-29,Malaga,Real Madrid,1,2
+2014-11-30,Ath Madrid,La Coruna,2,0
+2014-11-30,Cordoba,Villarreal,0,2
+2014-11-30,Sevilla,Granada,5,1
+2014-11-30,Valencia,Barcelona,0,1
+2014-12-01,Almeria,Vallecano,0,1
+2014-12-06,Ath Bilbao,Cordoba,0,1
+2014-12-06,Elche,Ath Madrid,0,2
+2014-12-06,La Coruna,Malaga,0,1
+2014-12-06,Real Madrid,Celta,3,0
+2014-12-07,Barcelona,Espanol,5,1
+2014-12-07,Granada,Valencia,1,1
+2014-12-07,Vallecano,Sevilla,0,1
+2014-12-07,Villarreal,Sociedad,4,0
+2014-12-08,Eibar,Almeria,5,2
+2014-12-08,Levante,Getafe,1,1
+2014-12-12,Almeria,Real Madrid,1,4
+2014-12-13,Cordoba,Levante,0,0
+2014-12-13,Getafe,Barcelona,0,0
+2014-12-13,Malaga,Celta,1,0
+2014-12-13,Valencia,Vallecano,3,0
+2014-12-14,Ath Madrid,Villarreal,0,1
+2014-12-14,Espanol,Granada,2,1
+2014-12-14,Sevilla,Eibar,0,0
+2014-12-14,Sociedad,Ath Bilbao,1,1
+2014-12-15,La Coruna,Elche,1,0
+2014-12-19,Celta,Almeria,0,1
+2014-12-20,Barcelona,Cordoba,5,0
+2014-12-20,Eibar,Valencia,0,1
+2014-12-20,Levante,Sociedad,1,1
+2014-12-20,Vallecano,Espanol,1,3
+2014-12-21,Ath Bilbao,Ath Madrid,1,4
+2014-12-21,Elche,Malaga,1,2
+2014-12-21,Granada,Getafe,1,1
+2014-12-21,Villarreal,La Coruna,3,0
+2015-01-03,Ath Madrid,Levante,3,1
+2015-01-03,Elche,Villarreal,2,2
+2015-01-03,La Coruna,Ath Bilbao,1,0
+2015-01-03,Malaga,Almeria,1,2
+2015-01-03,Sevilla,Celta,1,0
+2015-01-04,Espanol,Eibar,1,2
+2015-01-04,Getafe,Vallecano,1,2
+2015-01-04,Sociedad,Barcelona,1,0
+2015-01-04,Valencia,Real Madrid,2,1
+2015-01-05,Cordoba,Granada,2,0
+2015-01-09,Levante,La Coruna,0,0
+2015-01-10,Celta,Valencia,1,1
+2015-01-10,Eibar,Getafe,2,1
+2015-01-10,Malaga,Villarreal,1,1
+2015-01-10,Real Madrid,Espanol,3,0
+2015-01-11,Almeria,Sevilla,0,2
+2015-01-11,Ath Bilbao,Elche,1,2
+2015-01-11,Barcelona,Ath Madrid,3,1
+2015-01-11,Granada,Sociedad,1,1
+2015-01-12,Vallecano,Cordoba,0,1
+2015-01-16,Cordoba,Eibar,1,1
+2015-01-17,Espanol,Celta,1,0
+2015-01-17,Sociedad,Vallecano,0,1
+2015-01-17,Valencia,Almeria,3,2
+2015-01-17,Villarreal,Ath Bilbao,2,0
+2015-01-18,Ath Madrid,Granada,2,0
+2015-01-18,Elche,Levante,1,0
+2015-01-18,Getafe,Real Madrid,0,3
+2015-01-18,La Coruna,Barcelona,0,4
+2015-01-18,Sevilla,Malaga,2,0
+2015-01-24,Ath Madrid,Vallecano,3,1
+2015-01-24,Cordoba,Real Madrid,1,2
+2015-01-24,Elche,Barcelona,0,6
+2015-01-24,Sociedad,Eibar,1,0
+2015-01-24,Villarreal,Levante,1,0
+2015-01-25,Ath Bilbao,Malaga,1,1
+2015-01-25,Espanol,Almeria,3,0
+2015-01-25,La Coruna,Granada,2,2
+2015-01-25,Valencia,Sevilla,3,1
+2015-01-26,Getafe,Celta,2,1
+2015-01-30,Vallecano,La Coruna,1,2
+2015-01-31,Celta,Cordoba,1,0
+2015-01-31,Eibar,Ath Madrid,1,3
+2015-01-31,Granada,Elche,1,0
+2015-01-31,Real Madrid,Sociedad,4,1
+2015-02-01,Almeria,Getafe,1,0
+2015-02-01,Barcelona,Villarreal,3,2
+2015-02-01,Levante,Ath Bilbao,0,2
+2015-02-01,Sevilla,Espanol,3,2
+2015-02-02,Malaga,Valencia,1,0
+2015-02-04,Real Madrid,Sevilla,2,1
+2015-02-06,La Coruna,Eibar,2,0
+2015-02-07,Ath Madrid,Real Madrid,4,0
+2015-02-07,Levante,Malaga,4,1
+2015-02-07,Sociedad,Celta,1,1
+2015-02-07,Villarreal,Granada,2,0
+2015-02-08,Ath Bilbao,Barcelona,2,5
+2015-02-08,Cordoba,Almeria,1,2
+2015-02-08,Espanol,Valencia,1,2
+2015-02-08,Getafe,Sevilla,2,1
+2015-02-09,Elche,Vallecano,2,0
+2015-02-13,Almeria,Sociedad,2,2
+2015-02-14,Granada,Ath Bilbao,0,0
+2015-02-14,Malaga,Espanol,0,2
+2015-02-14,Real Madrid,La Coruna,2,0
+2015-02-14,Sevilla,Cordoba,3,0
+2015-02-15,Barcelona,Levante,5,0
+2015-02-15,Celta,Ath Madrid,2,0
+2015-02-15,Valencia,Getafe,1,0
+2015-02-15,Vallecano,Villarreal,2,0
+2015-02-16,Eibar,Elche,0,1
+2015-02-20,Getafe,Espanol,2,1
+2015-02-21,Ath Madrid,Almeria,3,0
+2015-02-21,Barcelona,Malaga,0,1
+2015-02-21,Cordoba,Valencia,1,2
+2015-02-21,La Coruna,Celta,0,2
+2015-02-22,Ath Bilbao,Vallecano,1,0
+2015-02-22,Elche,Real Madrid,0,2
+2015-02-22,Sociedad,Sevilla,4,3
+2015-02-22,Villarreal,Eibar,1,0
+2015-02-23,Levante,Granada,2,1
+2015-02-27,Espanol,Cordoba,1,0
+2015-02-28,Almeria,La Coruna,0,0
+2015-02-28,Granada,Barcelona,1,3
+2015-02-28,Malaga,Getafe,3,2
+2015-02-28,Vallecano,Levante,4,2
+2015-03-01,Eibar,Ath Bilbao,0,1
+2015-03-01,Real Madrid,Villarreal,1,1
+2015-03-01,Sevilla,Ath Madrid,0,0
+2015-03-01,Valencia,Sociedad,2,0
+2015-03-02,Celta,Elche,1,1
+2015-03-06,Levante,Eibar,2,1
+2015-03-07,Ath Bilbao,Real Madrid,1,0
+2015-03-07,Elche,Almeria,1,0
+2015-03-07,Granada,Malaga,1,0
+2015-03-07,La Coruna,Sevilla,3,4
+2015-03-08,Ath Madrid,Valencia,1,1
+2015-03-08,Barcelona,Vallecano,6,1
+2015-03-08,Sociedad,Espanol,1,0
+2015-03-08,Villarreal,Celta,4,1
+2015-03-09,Cordoba,Getafe,1,2
+2015-03-13,Valencia,La Coruna,2,0
+2015-03-14,Celta,Ath Bilbao,1,2
+2015-03-14,Eibar,Barcelona,0,2
+2015-03-14,Espanol,Ath Madrid,0,0
+2015-03-14,Vallecano,Granada,3,1
+2015-03-15,Almeria,Villarreal,0,0
+2015-03-15,Malaga,Cordoba,2,0
+2015-03-15,Real Madrid,Levante,2,0
+2015-03-15,Sevilla,Elche,3,0
+2015-03-16,Getafe,Sociedad,0,1
+2015-03-20,Elche,Valencia,0,4
+2015-03-21,Ath Bilbao,Almeria,2,1
+2015-03-21,Ath Madrid,Getafe,2,0
+2015-03-21,Granada,Eibar,0,0
+2015-03-21,Levante,Celta,0,1
+2015-03-21,Vallecano,Malaga,1,0
+2015-03-22,Barcelona,Real Madrid,2,1
+2015-03-22,La Coruna,Espanol,0,0
+2015-03-22,Sociedad,Cordoba,3,1
+2015-03-22,Villarreal,Sevilla,0,2
+2015-04-03,Eibar,Vallecano,1,2
+2015-04-04,Almeria,Levante,1,4
+2015-04-04,Cordoba,Ath Madrid,0,2
+2015-04-04,Malaga,Sociedad,1,1
+2015-04-04,Sevilla,Ath Bilbao,2,0
+2015-04-05,Celta,Barcelona,0,1
+2015-04-05,Getafe,La Coruna,2,1
+2015-04-05,Real Madrid,Granada,9,1
+2015-04-05,Valencia,Villarreal,0,0
+2015-04-06,Espanol,Elche,1,1
+2015-04-07,Ath Madrid,Sociedad,2,0
+2015-04-07,Eibar,Malaga,1,0
+2015-04-07,Levante,Sevilla,1,2
+2015-04-08,Barcelona,Almeria,4,0
+2015-04-08,Granada,Celta,1,1
+2015-04-08,La Coruna,Cordoba,1,1
+2015-04-08,Vallecano,Real Madrid,0,2
+2015-04-09,Ath Bilbao,Valencia,1,1
+2015-04-09,Elche,Getafe,0,1
+2015-04-09,Villarreal,Espanol,0,3
+2015-04-11,Almeria,Granada,3,0
+2015-04-11,Celta,Vallecano,6,1
+2015-04-11,Malaga,Ath Madrid,2,2
+2015-04-11,Real Madrid,Eibar,3,0
+2015-04-11,Sevilla,Barcelona,2,2
+2015-04-12,Cordoba,Elche,0,2
+2015-04-12,Espanol,Ath Bilbao,1,0
+2015-04-12,Getafe,Villarreal,1,1
+2015-04-12,Sociedad,La Coruna,2,2
+2015-04-13,Valencia,Levante,3,0
+2015-04-17,Levante,Espanol,2,2
+2015-04-18,Ath Bilbao,Getafe,4,0
+2015-04-18,Barcelona,Valencia,2,0
+2015-04-18,La Coruna,Ath Madrid,1,2
+2015-04-18,Real Madrid,Malaga,3,1
+2015-04-19,Eibar,Celta,0,1
+2015-04-19,Granada,Sevilla,1,1
+2015-04-19,Vallecano,Almeria,2,0
+2015-04-19,Villarreal,Cordoba,0,0
+2015-04-20,Elche,Sociedad,1,0
+2015-04-24,Cordoba,Ath Bilbao,0,1
+2015-04-25,Ath Madrid,Elche,3,0
+2015-04-25,Espanol,Barcelona,0,2
+2015-04-25,Getafe,Levante,0,1
+2015-04-25,Sociedad,Villarreal,0,0
+2015-04-26,Almeria,Eibar,2,0
+2015-04-26,Celta,Real Madrid,2,4
+2015-04-26,Malaga,La Coruna,1,1
+2015-04-26,Sevilla,Vallecano,2,0
+2015-04-27,Valencia,Granada,4,0
+2015-04-28,Ath Bilbao,Sociedad,1,1
+2015-04-28,Barcelona,Getafe,6,0
+2015-04-28,Levante,Cordoba,1,0
+2015-04-29,Celta,Malaga,1,0
+2015-04-29,Eibar,Sevilla,1,3
+2015-04-29,Elche,La Coruna,4,0
+2015-04-29,Real Madrid,Almeria,3,0
+2015-04-29,Villarreal,Ath Madrid,0,1
+2015-04-30,Granada,Espanol,1,2
+2015-04-30,Vallecano,Valencia,1,1
+2015-05-01,Sociedad,Levante,3,0
+2015-05-02,Ath Madrid,Ath Bilbao,0,0
+2015-05-02,Cordoba,Barcelona,0,8
+2015-05-02,La Coruna,Villarreal,1,1
+2015-05-02,Sevilla,Real Madrid,2,3
+2015-05-03,Espanol,Vallecano,1,1
+2015-05-03,Getafe,Granada,1,2
+2015-05-03,Malaga,Elche,1,2
+2015-05-03,Valencia,Eibar,3,1
+2015-05-04,Almeria,Celta,2,2
+2015-05-08,Eibar,Espanol,0,2
+2015-05-09,Ath Bilbao,La Coruna,1,1
+2015-05-09,Barcelona,Sociedad,2,0
+2015-05-09,Granada,Cordoba,2,0
+2015-05-09,Real Madrid,Valencia,2,2
+2015-05-10,Almeria,Malaga,1,2
+2015-05-10,Celta,Sevilla,1,1
+2015-05-10,Levante,Ath Madrid,2,2
+2015-05-10,Villarreal,Elche,1,0
+2015-05-11,Vallecano,Getafe,2,0
+2015-05-17,Ath Madrid,Barcelona,0,1
+2015-05-17,Cordoba,Vallecano,1,2
+2015-05-17,Elche,Ath Bilbao,2,3
+2015-05-17,Espanol,Real Madrid,1,4
+2015-05-17,Getafe,Eibar,1,1
+2015-05-17,La Coruna,Levante,2,0
+2015-05-17,Sevilla,Almeria,2,1
+2015-05-17,Sociedad,Granada,0,3
+2015-05-17,Valencia,Celta,1,1
+2015-05-17,Villarreal,Malaga,2,1
+2015-05-23,Almeria,Valencia,2,3
+2015-05-23,Ath Bilbao,Villarreal,4,0
+2015-05-23,Barcelona,La Coruna,2,2
+2015-05-23,Celta,Espanol,3,2
+2015-05-23,Eibar,Cordoba,3,0
+2015-05-23,Granada,Ath Madrid,0,0
+2015-05-23,Levante,Elche,0,0
+2015-05-23,Malaga,Sevilla,2,3
+2015-05-23,Real Madrid,Getafe,7,3
+2015-05-23,Vallecano,Sociedad,2,4
+2015-08-21,Malaga,Sevilla,0,0
+2015-08-22,Ath Madrid,Las Palmas,1,0
+2015-08-22,Espanol,Getafe,1,0
+2015-08-22,La Coruna,Sociedad,0,0
+2015-08-22,Vallecano,Valencia,0,0
+2015-08-23,Ath Bilbao,Barcelona,0,1
+2015-08-23,Betis,Villarreal,1,1
+2015-08-23,Levante,Celta,1,2
+2015-08-23,Sp Gijon,Real Madrid,0,0
+2015-08-24,Granada,Eibar,1,3
+2015-08-28,Villarreal,Espanol,3,1
+2015-08-29,Barcelona,Malaga,1,0
+2015-08-29,Celta,Vallecano,3,0
+2015-08-29,Real Madrid,Betis,5,0
+2015-08-29,Sociedad,Sp Gijon,0,0
+2015-08-30,Eibar,Ath Bilbao,2,0
+2015-08-30,Getafe,Granada,1,2
+2015-08-30,Las Palmas,Levante,0,0
+2015-08-30,Sevilla,Ath Madrid,0,3
+2015-08-30,Valencia,La Coruna,1,1
+2015-09-11,Levante,Sevilla,1,1
+2015-09-12,Ath Madrid,Barcelona,1,2
+2015-09-12,Betis,Sociedad,1,0
+2015-09-12,Espanol,Real Madrid,0,6
+2015-09-12,Sp Gijon,Valencia,0,1
+2015-09-13,Ath Bilbao,Getafe,3,1
+2015-09-13,Celta,Las Palmas,3,3
+2015-09-13,Granada,Villarreal,1,3
+2015-09-13,Malaga,Eibar,0,0
+2015-09-14,Vallecano,La Coruna,1,3
+2015-09-18,Getafe,Malaga,1,0
+2015-09-19,Eibar,Ath Madrid,0,2
+2015-09-19,Real Madrid,Granada,1,0
+2015-09-19,Sociedad,Espanol,2,3
+2015-09-19,Valencia,Betis,0,0
+2015-09-20,Barcelona,Levante,4,1
+2015-09-20,La Coruna,Sp Gijon,2,3
+2015-09-20,Las Palmas,Vallecano,0,1
+2015-09-20,Sevilla,Celta,1,2
+2015-09-20,Villarreal,Ath Bilbao,3,1
+2015-09-22,Ath Madrid,Getafe,2,0
+2015-09-22,Espanol,Valencia,1,0
+2015-09-22,Granada,Sociedad,0,3
+2015-09-23,Ath Bilbao,Real Madrid,1,2
+2015-09-23,Celta,Barcelona,4,1
+2015-09-23,Las Palmas,Sevilla,2,0
+2015-09-23,Levante,Eibar,2,2
+2015-09-23,Malaga,Villarreal,0,1
+2015-09-23,Vallecano,Sp Gijon,2,1
+2015-09-24,Betis,La Coruna,1,2
+2015-09-25,Valencia,Granada,1,0
+2015-09-26,Barcelona,Las Palmas,2,1
+2015-09-26,Eibar,Celta,1,1
+2015-09-26,Real Madrid,Malaga,0,0
+2015-09-26,Sevilla,Vallecano,3,2
+2015-09-26,Villarreal,Ath Madrid,1,0
+2015-09-27,Getafe,Levante,3,0
+2015-09-27,La Coruna,Espanol,3,0
+2015-09-27,Sociedad,Ath Bilbao,0,0
+2015-09-27,Sp Gijon,Betis,1,2
+2015-10-02,Celta,Getafe,0,0
+2015-10-03,Espanol,Sp Gijon,1,2
+2015-10-03,Granada,La Coruna,1,1
+2015-10-03,Las Palmas,Eibar,0,2
+2015-10-03,Malaga,Sociedad,3,1
+2015-10-03,Sevilla,Barcelona,2,1
+2015-10-04,Ath Bilbao,Valencia,3,1
+2015-10-04,Ath Madrid,Real Madrid,1,1
+2015-10-04,Levante,Villarreal,1,0
+2015-10-04,Vallecano,Betis,0,2
+2015-10-17,Barcelona,Vallecano,5,2
+2015-10-17,Betis,Espanol,1,3
+2015-10-17,Eibar,Sevilla,1,1
+2015-10-17,Real Madrid,Levante,3,0
+2015-10-17,Valencia,Malaga,3,0
+2015-10-18,Getafe,Las Palmas,4,0
+2015-10-18,La Coruna,Ath Bilbao,2,2
+2015-10-18,Sociedad,Ath Madrid,0,2
+2015-10-18,Villarreal,Celta,1,2
+2015-10-19,Sp Gijon,Granada,3,3
+2015-10-23,Vallecano,Espanol,3,0
+2015-10-24,Celta,Real Madrid,1,3
+2015-10-24,Granada,Betis,1,1
+2015-10-24,Malaga,La Coruna,2,0
+2015-10-24,Sevilla,Getafe,5,0
+2015-10-25,Ath Madrid,Valencia,2,1
+2015-10-25,Barcelona,Eibar,3,1
+2015-10-25,Las Palmas,Villarreal,0,0
+2015-10-25,Levante,Sociedad,0,4
+2015-10-26,Ath Bilbao,Sp Gijon,3,0
+2015-10-30,La Coruna,Ath Madrid,1,1
+2015-10-31,Getafe,Barcelona,0,2
+2015-10-31,Real Madrid,Las Palmas,3,1
+2015-10-31,Sociedad,Celta,2,3
+2015-10-31,Valencia,Levante,3,0
+2015-10-31,Villarreal,Sevilla,2,1
+2015-11-01,Betis,Ath Bilbao,1,3
+2015-11-01,Eibar,Vallecano,1,0
+2015-11-01,Espanol,Granada,1,1
+2015-11-01,Sp Gijon,Malaga,1,0
+2015-11-06,Las Palmas,Sociedad,2,0
+2015-11-07,Celta,Valencia,1,5
+2015-11-07,Eibar,Getafe,3,1
+2015-11-07,Levante,La Coruna,1,1
+2015-11-07,Malaga,Betis,0,1
+2015-11-07,Vallecano,Granada,2,1
+2015-11-08,Ath Bilbao,Espanol,2,1
+2015-11-08,Ath Madrid,Sp Gijon,1,0
+2015-11-08,Barcelona,Villarreal,3,0
+2015-11-08,Sevilla,Real Madrid,3,2
+2015-11-21,Espanol,Malaga,2,0
+2015-11-21,La Coruna,Celta,2,0
+2015-11-21,Real Madrid,Barcelona,0,4
+2015-11-21,Sociedad,Sevilla,2,0
+2015-11-21,Valencia,Las Palmas,1,1
+2015-11-22,Betis,Ath Madrid,0,1
+2015-11-22,Granada,Ath Bilbao,2,0
+2015-11-22,Sp Gijon,Levante,0,3
+2015-11-22,Villarreal,Eibar,1,1
+2015-11-23,Getafe,Vallecano,1,1
+2015-11-27,Levante,Betis,0,1
+2015-11-28,Ath Madrid,Espanol,1,0
+2015-11-28,Barcelona,Sociedad,4,0
+2015-11-28,Celta,Sp Gijon,2,1
+2015-11-28,Las Palmas,La Coruna,0,2
+2015-11-28,Malaga,Granada,2,2
+2015-11-29,Eibar,Real Madrid,0,2
+2015-11-29,Getafe,Villarreal,2,0
+2015-11-29,Sevilla,Valencia,1,0
+2015-11-29,Vallecano,Ath Bilbao,0,3
+2015-12-05,Betis,Celta,1,1
+2015-12-05,Granada,Ath Madrid,0,2
+2015-12-05,La Coruna,Sevilla,1,1
+2015-12-05,Real Madrid,Getafe,4,1
+2015-12-05,Valencia,Barcelona,1,1
+2015-12-06,Ath Bilbao,Malaga,0,0
+2015-12-06,Sociedad,Eibar,2,1
+2015-12-06,Sp Gijon,Las Palmas,3,1
+2015-12-06,Villarreal,Vallecano,2,1
+2015-12-07,Espanol,Levante,1,1
+2015-12-11,Getafe,Sociedad,1,1
+2015-12-12,Barcelona,La Coruna,2,2
+2015-12-12,Celta,Espanol,1,0
+2015-12-12,Las Palmas,Betis,1,0
+2015-12-12,Levante,Granada,1,2
+2015-12-12,Sevilla,Sp Gijon,2,0
+2015-12-13,Ath Madrid,Ath Bilbao,2,1
+2015-12-13,Eibar,Valencia,1,1
+2015-12-13,Vallecano,Malaga,1,2
+2015-12-13,Villarreal,Real Madrid,1,0
+2015-12-19,Betis,Sevilla,0,0
+2015-12-19,Espanol,Las Palmas,1,0
+2015-12-19,La Coruna,Eibar,2,0
+2015-12-19,Valencia,Getafe,2,2
+2015-12-20,Ath Bilbao,Levante,2,0
+2015-12-20,Granada,Celta,0,2
+2015-12-20,Malaga,Ath Madrid,1,0
+2015-12-20,Real Madrid,Vallecano,10,2
+2015-12-20,Sociedad,Villarreal,0,2
+2015-12-30,Barcelona,Betis,4,0
+2015-12-30,Celta,Ath Bilbao,0,1
+2015-12-30,Eibar,Sp Gijon,2,0
+2015-12-30,Getafe,La Coruna,0,0
+2015-12-30,Las Palmas,Granada,4,1
+2015-12-30,Levante,Malaga,0,1
+2015-12-30,Real Madrid,Sociedad,3,1
+2015-12-30,Sevilla,Espanol,2,0
+2015-12-30,Vallecano,Ath Madrid,0,2
+2015-12-31,Villarreal,Valencia,1,0
+2016-01-02,Ath Madrid,Levante,1,0
+2016-01-02,Espanol,Barcelona,0,0
+2016-01-02,Malaga,Celta,2,0
+2016-01-03,Ath Bilbao,Las Palmas,2,2
+2016-01-03,Betis,Eibar,0,4
+2016-01-03,Granada,Sevilla,2,1
+2016-01-03,La Coruna,Villarreal,1,2
+2016-01-03,Valencia,Real Madrid,2,2
+2016-01-03,Vallecano,Sociedad,2,2
+2016-01-04,Sp Gijon,Getafe,1,2
+2016-01-09,Barcelona,Granada,4,0
+2016-01-09,Getafe,Betis,1,0
+2016-01-09,Levante,Vallecano,2,1
+2016-01-09,Real Madrid,La Coruna,5,0
+2016-01-09,Sevilla,Ath Bilbao,2,0
+2016-01-10,Celta,Ath Madrid,0,2
+2016-01-10,Eibar,Espanol,2,1
+2016-01-10,Las Palmas,Malaga,1,1
+2016-01-10,Sociedad,Valencia,2,0
+2016-01-10,Villarreal,Sp Gijon,2,0
+2016-01-16,Celta,Levante,4,3
+2016-01-16,Sevilla,Malaga,2,1
+2016-01-16,Sociedad,La Coruna,1,1
+2016-01-16,Villarreal,Betis,0,0
+2016-01-17,Barcelona,Ath Bilbao,6,0
+2016-01-17,Getafe,Espanol,3,1
+2016-01-17,Las Palmas,Ath Madrid,0,3
+2016-01-17,Real Madrid,Sp Gijon,5,1
+2016-01-17,Valencia,Vallecano,2,2
+2016-01-18,Eibar,Granada,5,1
+2016-01-22,Sp Gijon,Sociedad,5,1
+2016-01-23,Espanol,Villarreal,2,2
+2016-01-23,Granada,Getafe,3,2
+2016-01-23,Malaga,Barcelona,1,2
+2016-01-23,Vallecano,Celta,3,0
+2016-01-24,Ath Bilbao,Eibar,5,2
+2016-01-24,Ath Madrid,Sevilla,0,0
+2016-01-24,Betis,Real Madrid,1,1
+2016-01-24,La Coruna,Valencia,1,1
+2016-01-25,Levante,Las Palmas,3,2
+2016-01-30,Barcelona,Ath Madrid,2,1
+2016-01-30,Eibar,Malaga,1,2
+2016-01-30,Getafe,Ath Bilbao,0,1
+2016-01-30,Sociedad,Betis,2,1
+2016-01-30,Villarreal,Granada,1,0
+2016-01-31,Las Palmas,Celta,2,1
+2016-01-31,Real Madrid,Espanol,6,0
+2016-01-31,Sevilla,Levante,3,1
+2016-01-31,Valencia,Sp Gijon,0,1
+2016-02-01,La Coruna,Vallecano,2,2
+2016-02-05,Malaga,Getafe,3,0
+2016-02-06,Ath Bilbao,Villarreal,0,0
+2016-02-06,Ath Madrid,Eibar,3,1
+2016-02-06,Sp Gijon,La Coruna,1,1
+2016-02-06,Vallecano,Las Palmas,2,0
+2016-02-07,Betis,Valencia,1,0
+2016-02-07,Celta,Sevilla,1,1
+2016-02-07,Granada,Real Madrid,1,2
+2016-02-07,Levante,Barcelona,0,2
+2016-02-08,Espanol,Sociedad,0,5
+2016-02-12,Sp Gijon,Vallecano,2,2
+2016-02-13,La Coruna,Betis,2,2
+2016-02-13,Real Madrid,Ath Bilbao,4,2
+2016-02-13,Valencia,Espanol,2,1
+2016-02-13,Villarreal,Malaga,1,0
+2016-02-14,Barcelona,Celta,6,1
+2016-02-14,Eibar,Levante,2,0
+2016-02-14,Getafe,Ath Madrid,0,1
+2016-02-14,Sevilla,Las Palmas,2,0
+2016-02-14,Sociedad,Granada,3,0
+2016-02-17,Sp Gijon,Barcelona,1,3
+2016-02-19,Levante,Getafe,3,0
+2016-02-20,Betis,Sp Gijon,1,1
+2016-02-20,Celta,Eibar,3,2
+2016-02-20,Espanol,La Coruna,1,0
+2016-02-20,Las Palmas,Barcelona,1,2
+2016-02-21,Ath Bilbao,Sociedad,0,1
+2016-02-21,Ath Madrid,Villarreal,0,0
+2016-02-21,Granada,Valencia,1,2
+2016-02-21,Malaga,Real Madrid,1,1
+2016-02-21,Vallecano,Sevilla,2,2
+2016-02-26,Eibar,Las Palmas,0,1
+2016-02-27,Betis,Vallecano,2,2
+2016-02-27,Getafe,Celta,0,1
+2016-02-27,Real Madrid,Ath Madrid,0,1
+2016-02-27,Sociedad,Malaga,1,1
+2016-02-27,Sp Gijon,Espanol,2,4
+2016-02-28,Barcelona,Sevilla,2,1
+2016-02-28,La Coruna,Granada,0,1
+2016-02-28,Valencia,Ath Bilbao,0,3
+2016-02-28,Villarreal,Levante,3,0
+2016-03-01,Ath Madrid,Sociedad,3,0
+2016-03-01,Las Palmas,Getafe,4,0
+2016-03-02,Ath Bilbao,La Coruna,4,1
+2016-03-02,Celta,Villarreal,0,0
+2016-03-02,Levante,Real Madrid,1,3
+2016-03-02,Malaga,Valencia,1,2
+2016-03-02,Sevilla,Eibar,1,0
+2016-03-03,Espanol,Betis,0,3
+2016-03-03,Granada,Sp Gijon,2,0
+2016-03-03,Vallecano,Barcelona,1,5
+2016-03-05,Getafe,Sevilla,1,1
+2016-03-05,La Coruna,Malaga,3,3
+2016-03-05,Real Madrid,Celta,7,1
+2016-03-05,Villarreal,Las Palmas,0,1
+2016-03-06,Betis,Granada,2,0
+2016-03-06,Eibar,Barcelona,0,4
+2016-03-06,Sociedad,Levante,1,1
+2016-03-06,Sp Gijon,Ath Bilbao,0,2
+2016-03-06,Valencia,Ath Madrid,1,3
+2016-03-07,Espanol,Vallecano,2,1
+2016-03-11,Malaga,Sp Gijon,1,0
+2016-03-12,Ath Madrid,La Coruna,3,0
+2016-03-12,Barcelona,Getafe,6,0
+2016-03-12,Celta,Sociedad,1,0
+2016-03-12,Vallecano,Eibar,1,1
+2016-03-13,Ath Bilbao,Betis,3,1
+2016-03-13,Las Palmas,Real Madrid,1,2
+2016-03-13,Levante,Valencia,1,0
+2016-03-13,Sevilla,Villarreal,4,2
+2016-03-14,Granada,Espanol,1,1
+2016-03-18,Getafe,Eibar,1,1
+2016-03-19,Betis,Malaga,0,1
+2016-03-19,Granada,Vallecano,2,2
+2016-03-19,La Coruna,Levante,2,1
+2016-03-19,Sociedad,Las Palmas,0,1
+2016-03-19,Sp Gijon,Ath Madrid,2,1
+2016-03-20,Espanol,Ath Bilbao,2,1
+2016-03-20,Real Madrid,Sevilla,4,0
+2016-03-20,Valencia,Celta,0,2
+2016-03-20,Villarreal,Barcelona,2,2
+2016-04-01,Vallecano,Getafe,2,0
+2016-04-02,Ath Madrid,Betis,5,1
+2016-04-02,Barcelona,Real Madrid,1,2
+2016-04-02,Celta,La Coruna,1,1
+2016-04-02,Las Palmas,Valencia,2,1
+2016-04-03,Ath Bilbao,Granada,1,1
+2016-04-03,Eibar,Villarreal,1,2
+2016-04-03,Malaga,Espanol,1,1
+2016-04-03,Sevilla,Sociedad,1,2
+2016-04-04,Levante,Sp Gijon,0,0
+2016-04-08,Granada,Malaga,0,0
+2016-04-09,Betis,Levante,1,0
+2016-04-09,Espanol,Ath Madrid,1,3
+2016-04-09,Real Madrid,Eibar,4,0
+2016-04-09,Sociedad,Barcelona,1,0
+2016-04-10,Ath Bilbao,Vallecano,1,0
+2016-04-10,Sp Gijon,Celta,0,1
+2016-04-10,Valencia,Sevilla,2,1
+2016-04-10,Villarreal,Getafe,2,0
+2016-04-11,La Coruna,Las Palmas,1,3
+2016-04-15,Levante,Espanol,2,1
+2016-04-16,Celta,Betis,1,1
+2016-04-16,Eibar,Sociedad,2,1
+2016-04-16,Getafe,Real Madrid,1,5
+2016-04-16,Las Palmas,Sp Gijon,1,1
+2016-04-17,Ath Madrid,Granada,3,0
+2016-04-17,Barcelona,Valencia,1,2
+2016-04-17,Malaga,Ath Bilbao,0,1
+2016-04-17,Sevilla,La Coruna,1,1
+2016-04-17,Vallecano,Villarreal,2,1
+2016-04-19,Betis,Las Palmas,1,0
+2016-04-19,Espanol,Celta,1,1
+2016-04-20,Ath Bilbao,Ath Madrid,0,1
+2016-04-20,La Coruna,Barcelona,0,8
+2016-04-20,Malaga,Vallecano,1,1
+2016-04-20,Real Madrid,Villarreal,3,0
+2016-04-20,Sp Gijon,Sevilla,2,1
+2016-04-20,Valencia,Eibar,4,0
+2016-04-21,Granada,Levante,5,1
+2016-04-21,Sociedad,Getafe,1,2
+2016-04-22,Las Palmas,Espanol,4,0
+2016-04-23,Ath Madrid,Malaga,1,0
+2016-04-23,Barcelona,Sp Gijon,6,0
+2016-04-23,Eibar,La Coruna,1,1
+2016-04-23,Vallecano,Real Madrid,2,3
+2016-04-24,Getafe,Valencia,2,2
+2016-04-24,Levante,Ath Bilbao,2,2
+2016-04-24,Sevilla,Betis,2,0
+2016-04-24,Villarreal,Sociedad,0,0
+2016-04-25,Celta,Granada,2,1
+2016-04-29,Sp Gijon,Eibar,2,0
+2016-04-30,Ath Madrid,Vallecano,1,0
+2016-04-30,Betis,Barcelona,0,2
+2016-04-30,Granada,Las Palmas,3,2
+2016-04-30,Sociedad,Real Madrid,0,1
+2016-05-01,Ath Bilbao,Celta,2,1
+2016-05-01,Espanol,Sevilla,1,0
+2016-05-01,La Coruna,Getafe,0,2
+2016-05-01,Valencia,Villarreal,0,2
+2016-05-02,Malaga,Levante,3,1
+2016-05-08,Barcelona,Espanol,5,0
+2016-05-08,Celta,Malaga,1,0
+2016-05-08,Eibar,Betis,1,1
+2016-05-08,Getafe,Sp Gijon,1,1
+2016-05-08,Las Palmas,Ath Bilbao,0,0
+2016-05-08,Levante,Ath Madrid,2,1
+2016-05-08,Real Madrid,Valencia,3,2
+2016-05-08,Sevilla,Granada,1,4
+2016-05-08,Sociedad,Vallecano,2,1
+2016-05-08,Villarreal,La Coruna,0,2
+2016-05-13,Valencia,Sociedad,0,1
+2016-05-14,Ath Bilbao,Sevilla,3,1
+2016-05-14,Ath Madrid,Celta,2,0
+2016-05-14,Granada,Barcelona,0,3
+2016-05-14,La Coruna,Real Madrid,0,2
+2016-05-15,Betis,Getafe,2,1
+2016-05-15,Espanol,Eibar,4,2
+2016-05-15,Malaga,Las Palmas,4,1
+2016-05-15,Sp Gijon,Villarreal,2,0
+2016-05-15,Vallecano,Levante,3,1
+2016-08-19,La Coruna,Eibar,2,1
+2016-08-19,Malaga,Osasuna,1,1
+2016-08-20,Barcelona,Betis,6,2
+2016-08-20,Granada,Villarreal,1,1
+2016-08-20,Sevilla,Espanol,6,4
+2016-08-21,Ath Madrid,Alaves,1,1
+2016-08-21,Sociedad,Real Madrid,0,3
+2016-08-21,Sp Gijon,Ath Bilbao,2,1
+2016-08-22,Celta,Leganes,0,1
+2016-08-22,Valencia,Las Palmas,2,4
+2016-08-26,Betis,La Coruna,0,0
+2016-08-26,Espanol,Malaga,2,2
+2016-08-27,Eibar,Valencia,1,0
+2016-08-27,Leganes,Ath Madrid,0,0
+2016-08-27,Osasuna,Sociedad,0,2
+2016-08-27,Real Madrid,Celta,2,1
+2016-08-28,Alaves,Sp Gijon,0,0
+2016-08-28,Ath Bilbao,Barcelona,0,1
+2016-08-28,Las Palmas,Granada,5,1
+2016-08-28,Villarreal,Sevilla,0,0
+2016-09-09,Sociedad,Espanol,1,1
+2016-09-10,Barcelona,Alaves,1,2
+2016-09-10,Celta,Ath Madrid,0,4
+2016-09-10,Malaga,Villarreal,0,2
+2016-09-10,Real Madrid,Osasuna,5,2
+2016-09-10,Sevilla,Las Palmas,2,1
+2016-09-11,Granada,Eibar,1,2
+2016-09-11,La Coruna,Ath Bilbao,0,1
+2016-09-11,Sp Gijon,Leganes,2,1
+2016-09-11,Valencia,Betis,2,3
+2016-09-16,Betis,Granada,2,2
+2016-09-17,Ath Madrid,Sp Gijon,5,0
+2016-09-17,Eibar,Sevilla,1,1
+2016-09-17,Las Palmas,Malaga,1,0
+2016-09-17,Leganes,Barcelona,1,5
+2016-09-18,Ath Bilbao,Valencia,2,1
+2016-09-18,Espanol,Real Madrid,0,2
+2016-09-18,Osasuna,Celta,0,0
+2016-09-18,Villarreal,Sociedad,2,1
+2016-09-19,Alaves,La Coruna,0,0
+2016-09-20,Malaga,Eibar,2,1
+2016-09-20,Sevilla,Betis,1,0
+2016-09-21,Barcelona,Ath Madrid,1,1
+2016-09-21,Celta,Sp Gijon,2,1
+2016-09-21,Granada,Ath Bilbao,1,2
+2016-09-21,Real Madrid,Villarreal,1,1
+2016-09-21,Sociedad,Las Palmas,4,1
+2016-09-22,La Coruna,Leganes,1,2
+2016-09-22,Osasuna,Espanol,1,2
+2016-09-22,Valencia,Alaves,2,1
+2016-09-23,Betis,Malaga,1,0
+2016-09-24,Ath Bilbao,Sevilla,3,1
+2016-09-24,Eibar,Sociedad,2,0
+2016-09-24,Las Palmas,Real Madrid,2,2
+2016-09-24,Sp Gijon,Barcelona,0,5
+2016-09-25,Ath Madrid,La Coruna,1,0
+2016-09-25,Espanol,Celta,0,2
+2016-09-25,Leganes,Valencia,1,2
+2016-09-25,Villarreal,Osasuna,3,1
+2016-09-26,Alaves,Granada,3,1
+2016-09-30,Sociedad,Betis,1,0
+2016-10-01,Granada,Leganes,0,1
+2016-10-01,La Coruna,Sp Gijon,2,1
+2016-10-01,Osasuna,Las Palmas,2,2
+2016-10-01,Sevilla,Alaves,2,1
+2016-10-02,Celta,Barcelona,4,3
+2016-10-02,Espanol,Villarreal,0,0
+2016-10-02,Malaga,Ath Bilbao,2,1
+2016-10-02,Real Madrid,Eibar,1,1
+2016-10-02,Valencia,Ath Madrid,0,2
+2016-10-14,Las Palmas,Espanol,0,0
+2016-10-15,Ath Madrid,Granada,7,1
+2016-10-15,Barcelona,La Coruna,4,0
+2016-10-15,Betis,Real Madrid,1,6
+2016-10-15,Leganes,Sevilla,2,3
+2016-10-16,Alaves,Malaga,1,1
+2016-10-16,Ath Bilbao,Sociedad,3,2
+2016-10-16,Sp Gijon,Valencia,1,2
+2016-10-16,Villarreal,Celta,5,0
+2016-10-17,Eibar,Osasuna,2,3
+2016-10-21,Osasuna,Betis,1,2
+2016-10-22,Espanol,Eibar,3,3
+2016-10-22,Granada,Sp Gijon,0,0
+2016-10-22,Sociedad,Alaves,3,0
+2016-10-22,Valencia,Barcelona,2,3
+2016-10-23,Celta,La Coruna,4,1
+2016-10-23,Malaga,Leganes,4,0
+2016-10-23,Real Madrid,Ath Bilbao,2,1
+2016-10-23,Sevilla,Ath Madrid,1,0
+2016-10-23,Villarreal,Las Palmas,2,1
+2016-10-28,Leganes,Sociedad,0,2
+2016-10-29,Alaves,Real Madrid,1,4
+2016-10-29,Ath Madrid,Malaga,4,2
+2016-10-29,Barcelona,Granada,1,0
+2016-10-29,Sp Gijon,Sevilla,1,1
+2016-10-30,Ath Bilbao,Osasuna,1,1
+2016-10-30,Betis,Espanol,0,1
+2016-10-30,Eibar,Villarreal,2,1
+2016-10-30,Las Palmas,Celta,3,3
+2016-10-31,La Coruna,Valencia,1,1
+2016-11-04,Malaga,Sp Gijon,3,2
+2016-11-05,Granada,La Coruna,1,1
+2016-11-05,Las Palmas,Eibar,1,0
+2016-11-05,Osasuna,Alaves,0,1
+2016-11-05,Sociedad,Ath Madrid,2,0
+2016-11-06,Celta,Valencia,2,1
+2016-11-06,Espanol,Ath Bilbao,0,0
+2016-11-06,Real Madrid,Leganes,3,0
+2016-11-06,Sevilla,Barcelona,1,2
+2016-11-06,Villarreal,Betis,2,0
+2016-11-18,Betis,Las Palmas,2,0
+2016-11-19,Ath Madrid,Real Madrid,0,3
+2016-11-19,Barcelona,Malaga,0,0
+2016-11-19,Eibar,Celta,1,0
+2016-11-19,La Coruna,Sevilla,2,3
+2016-11-20,Alaves,Espanol,0,1
+2016-11-20,Ath Bilbao,Villarreal,1,0
+2016-11-20,Sp Gijon,Sociedad,1,3
+2016-11-20,Valencia,Granada,1,1
+2016-11-21,Leganes,Osasuna,2,0
+2016-11-25,Eibar,Betis,3,1
+2016-11-26,Espanol,Leganes,3,0
+2016-11-26,Malaga,La Coruna,4,3
+2016-11-26,Real Madrid,Sp Gijon,2,1
+2016-11-26,Sevilla,Valencia,2,1
+2016-11-27,Celta,Granada,3,1
+2016-11-27,Osasuna,Ath Madrid,0,3
+2016-11-27,Sociedad,Barcelona,1,1
+2016-11-27,Villarreal,Alaves,0,2
+2016-11-28,Las Palmas,Ath Bilbao,3,1
+2016-12-03,Ath Madrid,Espanol,0,0
+2016-12-03,Barcelona,Real Madrid,1,1
+2016-12-03,Granada,Sevilla,2,1
+2016-12-03,Leganes,Villarreal,0,0
+2016-12-04,Alaves,Las Palmas,1,1
+2016-12-04,Ath Bilbao,Eibar,3,1
+2016-12-04,Betis,Celta,3,3
+2016-12-04,Sp Gijon,Osasuna,3,1
+2016-12-04,Valencia,Malaga,2,2
+2016-12-05,La Coruna,Sociedad,5,1
+2016-12-09,Malaga,Granada,1,1
+2016-12-10,Las Palmas,Leganes,1,1
+2016-12-10,Osasuna,Barcelona,0,3
+2016-12-10,Real Madrid,La Coruna,3,2
+2016-12-10,Sociedad,Valencia,3,2
+2016-12-11,Betis,Ath Bilbao,1,0
+2016-12-11,Celta,Sevilla,0,3
+2016-12-11,Eibar,Alaves,0,0
+2016-12-11,Espanol,Sp Gijon,2,1
+2016-12-12,Villarreal,Ath Madrid,3,0
+2016-12-16,Alaves,Betis,1,0
+2016-12-17,Ath Madrid,Las Palmas,1,0
+2016-12-17,Granada,Sociedad,0,2
+2016-12-17,Sevilla,Malaga,4,1
+2016-12-17,Sp Gijon,Villarreal,1,3
+2016-12-18,Barcelona,Espanol,4,1
+2016-12-18,La Coruna,Osasuna,2,0
+2016-12-18,Leganes,Eibar,1,1
+2016-12-19,Ath Bilbao,Celta,2,1
+2017-01-06,Espanol,La Coruna,1,1
+2017-01-07,Eibar,Ath Madrid,0,2
+2017-01-07,Las Palmas,Sp Gijon,1,0
+2017-01-07,Real Madrid,Granada,5,0
+2017-01-07,Sociedad,Sevilla,0,4
+2017-01-08,Ath Bilbao,Alaves,0,0
+2017-01-08,Betis,Leganes,2,0
+2017-01-08,Celta,Malaga,3,1
+2017-01-08,Villarreal,Barcelona,1,1
+2017-01-09,Osasuna,Valencia,3,3
+2017-01-14,Ath Madrid,Betis,1,0
+2017-01-14,Barcelona,Las Palmas,5,0
+2017-01-14,La Coruna,Villarreal,0,0
+2017-01-14,Leganes,Ath Bilbao,0,0
+2017-01-15,Celta,Alaves,1,0
+2017-01-15,Granada,Osasuna,1,1
+2017-01-15,Sevilla,Real Madrid,2,1
+2017-01-15,Sp Gijon,Eibar,2,3
+2017-01-15,Valencia,Espanol,2,1
+2017-01-16,Malaga,Sociedad,0,2
+2017-01-20,Las Palmas,La Coruna,1,1
+2017-01-21,Alaves,Leganes,2,2
+2017-01-21,Espanol,Granada,3,1
+2017-01-21,Real Madrid,Malaga,2,1
+2017-01-21,Villarreal,Valencia,0,2
+2017-01-22,Ath Bilbao,Ath Madrid,2,2
+2017-01-22,Betis,Sp Gijon,0,0
+2017-01-22,Eibar,Barcelona,0,4
+2017-01-22,Osasuna,Sevilla,3,4
+2017-01-22,Sociedad,Celta,1,0
+2017-01-27,Osasuna,Malaga,1,1
+2017-01-28,Alaves,Ath Madrid,0,0
+2017-01-28,Eibar,La Coruna,3,1
+2017-01-28,Leganes,Celta,0,2
+2017-01-28,Villarreal,Granada,2,0
+2017-01-29,Ath Bilbao,Sp Gijon,2,1
+2017-01-29,Betis,Barcelona,1,1
+2017-01-29,Espanol,Sevilla,3,1
+2017-01-29,Real Madrid,Sociedad,3,0
+2017-01-30,Las Palmas,Valencia,3,1
+2017-02-04,Ath Madrid,Leganes,2,0
+2017-02-04,Barcelona,Ath Bilbao,3,0
+2017-02-04,Malaga,Espanol,0,1
+2017-02-04,Valencia,Eibar,0,4
+2017-02-05,Sevilla,Villarreal,0,0
+2017-02-05,Sociedad,Osasuna,3,2
+2017-02-05,Sp Gijon,Alaves,2,4
+2017-02-06,Granada,Las Palmas,1,0
+2017-02-10,Espanol,Sociedad,1,2
+2017-02-11,Alaves,Barcelona,0,6
+2017-02-11,Ath Bilbao,La Coruna,2,1
+2017-02-11,Betis,Valencia,0,0
+2017-02-11,Osasuna,Real Madrid,1,3
+2017-02-12,Ath Madrid,Celta,3,2
+2017-02-12,Las Palmas,Sevilla,0,1
+2017-02-12,Leganes,Sp Gijon,0,2
+2017-02-12,Villarreal,Malaga,1,1
+2017-02-13,Eibar,Granada,4,0
+2017-02-17,Granada,Betis,4,1
+2017-02-18,La Coruna,Alaves,0,1
+2017-02-18,Real Madrid,Espanol,2,0
+2017-02-18,Sevilla,Eibar,2,0
+2017-02-18,Sp Gijon,Ath Madrid,1,4
+2017-02-19,Barcelona,Leganes,2,1
+2017-02-19,Celta,Osasuna,3,0
+2017-02-19,Sociedad,Villarreal,0,1
+2017-02-19,Valencia,Ath Bilbao,2,0
+2017-02-20,Malaga,Las Palmas,2,1
+2017-02-22,Valencia,Real Madrid,2,1
+2017-02-24,Las Palmas,Sociedad,0,1
+2017-02-25,Alaves,Valencia,2,1
+2017-02-25,Betis,Sevilla,1,2
+2017-02-25,Eibar,Malaga,3,0
+2017-02-25,Leganes,La Coruna,4,0
+2017-02-26,Ath Bilbao,Granada,3,1
+2017-02-26,Ath Madrid,Barcelona,1,2
+2017-02-26,Espanol,Osasuna,3,0
+2017-02-26,Sp Gijon,Celta,1,1
+2017-02-26,Villarreal,Real Madrid,2,3
+2017-02-28,Malaga,Betis,1,2
+2017-02-28,Sociedad,Eibar,2,2
+2017-02-28,Valencia,Leganes,1,0
+2017-03-01,Barcelona,Sp Gijon,6,1
+2017-03-01,Celta,Espanol,2,2
+2017-03-01,Granada,Alaves,2,1
+2017-03-01,Osasuna,Villarreal,1,4
+2017-03-01,Real Madrid,Las Palmas,3,3
+2017-03-02,La Coruna,Ath Madrid,1,1
+2017-03-02,Sevilla,Ath Bilbao,1,0
+2017-03-03,Betis,Sociedad,2,3
+2017-03-04,Barcelona,Celta,5,0
+2017-03-04,Eibar,Real Madrid,1,4
+2017-03-04,Leganes,Granada,1,0
+2017-03-04,Villarreal,Espanol,2,0
+2017-03-05,Ath Bilbao,Malaga,1,0
+2017-03-05,Ath Madrid,Valencia,3,0
+2017-03-05,Las Palmas,Osasuna,5,2
+2017-03-05,Sp Gijon,La Coruna,0,1
+2017-03-06,Alaves,Sevilla,1,1
+2017-03-08,La Coruna,Betis,1,1
+2017-03-10,Espanol,Las Palmas,4,3
+2017-03-11,Granada,Ath Madrid,0,1
+2017-03-11,Malaga,Alaves,1,2
+2017-03-11,Sevilla,Leganes,1,1
+2017-03-11,Valencia,Sp Gijon,1,1
+2017-03-12,Celta,Villarreal,0,1
+2017-03-12,La Coruna,Barcelona,2,1
+2017-03-12,Real Madrid,Betis,2,1
+2017-03-12,Sociedad,Ath Bilbao,0,2
+2017-03-13,Osasuna,Eibar,1,1
+2017-03-17,Las Palmas,Villarreal,1,0
+2017-03-18,Alaves,Sociedad,1,0
+2017-03-18,Ath Bilbao,Real Madrid,1,2
+2017-03-18,Betis,Osasuna,2,0
+2017-03-18,Eibar,Espanol,1,1
+2017-03-19,Ath Madrid,Sevilla,3,1
+2017-03-19,Barcelona,Valencia,4,2
+2017-03-19,La Coruna,Celta,0,1
+2017-03-19,Leganes,Malaga,0,0
+2017-03-19,Sp Gijon,Granada,3,1
+2017-03-31,Espanol,Betis,2,1
+2017-04-01,Malaga,Ath Madrid,0,2
+2017-04-01,Osasuna,Ath Bilbao,1,2
+2017-04-01,Sociedad,Leganes,1,1
+2017-04-01,Villarreal,Eibar,2,3
+2017-04-02,Granada,Barcelona,1,4
+2017-04-02,Real Madrid,Alaves,3,0
+2017-04-02,Sevilla,Sp Gijon,0,0
+2017-04-02,Valencia,La Coruna,3,0
+2017-04-03,Celta,Las Palmas,3,1
+2017-04-04,Ath Bilbao,Espanol,2,0
+2017-04-04,Ath Madrid,Sociedad,1,0
+2017-04-04,Betis,Villarreal,0,1
+2017-04-05,Alaves,Osasuna,0,1
+2017-04-05,Barcelona,Sevilla,3,0
+2017-04-05,La Coruna,Granada,0,0
+2017-04-05,Leganes,Real Madrid,2,4
+2017-04-05,Sp Gijon,Malaga,0,1
+2017-04-06,Eibar,Las Palmas,3,1
+2017-04-06,Valencia,Celta,3,2
+2017-04-07,Villarreal,Ath Bilbao,3,1
+2017-04-08,Espanol,Alaves,1,0
+2017-04-08,Malaga,Barcelona,2,0
+2017-04-08,Real Madrid,Ath Madrid,1,1
+2017-04-08,Sevilla,La Coruna,4,2
+2017-04-09,Celta,Eibar,0,2
+2017-04-09,Granada,Valencia,1,3
+2017-04-09,Las Palmas,Betis,4,1
+2017-04-09,Osasuna,Leganes,2,1
+2017-04-10,Sociedad,Sp Gijon,3,1
+2017-04-14,Ath Bilbao,Las Palmas,5,1
+2017-04-15,Ath Madrid,Osasuna,3,0
+2017-04-15,Barcelona,Sociedad,3,2
+2017-04-15,La Coruna,Malaga,2,0
+2017-04-15,Sp Gijon,Real Madrid,2,3
+2017-04-16,Betis,Eibar,2,0
+2017-04-16,Granada,Celta,0,3
+2017-04-16,Leganes,Espanol,0,1
+2017-04-16,Valencia,Sevilla,0,0
+2017-04-17,Alaves,Villarreal,2,1
+2017-04-21,Sevilla,Granada,2,0
+2017-04-22,Espanol,Ath Madrid,0,1
+2017-04-22,Malaga,Valencia,2,0
+2017-04-22,Osasuna,Sp Gijon,2,2
+2017-04-22,Villarreal,Leganes,2,1
+2017-04-23,Celta,Betis,0,1
+2017-04-23,Las Palmas,Alaves,1,1
+2017-04-23,Real Madrid,Barcelona,2,3
+2017-04-23,Sociedad,La Coruna,1,0
+2017-04-24,Eibar,Ath Bilbao,0,1
+2017-04-25,Ath Madrid,Villarreal,0,1
+2017-04-25,Granada,Malaga,0,2
+2017-04-25,Sp Gijon,Espanol,1,1
+2017-04-26,Barcelona,Osasuna,7,1
+2017-04-26,La Coruna,Real Madrid,2,6
+2017-04-26,Leganes,Las Palmas,3,0
+2017-04-26,Valencia,Sociedad,2,3
+2017-04-27,Alaves,Eibar,0,0
+2017-04-27,Ath Bilbao,Betis,2,1
+2017-04-27,Sevilla,Celta,2,1
+2017-04-28,Villarreal,Sp Gijon,3,1
+2017-04-29,Espanol,Barcelona,0,3
+2017-04-29,Las Palmas,Ath Madrid,0,5
+2017-04-29,Real Madrid,Valencia,2,1
+2017-04-29,Sociedad,Granada,2,1
+2017-04-30,Betis,Alaves,1,4
+2017-04-30,Celta,Ath Bilbao,0,3
+2017-04-30,Eibar,Leganes,2,0
+2017-04-30,Osasuna,La Coruna,2,2
+2017-05-01,Malaga,Sevilla,4,2
+2017-05-05,Sevilla,Sociedad,1,1
+2017-05-06,Ath Madrid,Eibar,1,0
+2017-05-06,Barcelona,Villarreal,4,1
+2017-05-06,Granada,Real Madrid,0,4
+2017-05-06,Sp Gijon,Las Palmas,1,0
+2017-05-07,Alaves,Ath Bilbao,1,0
+2017-05-07,La Coruna,Espanol,1,2
+2017-05-07,Malaga,Celta,3,0
+2017-05-07,Valencia,Osasuna,4,1
+2017-05-08,Leganes,Betis,4,0
+2017-05-13,Espanol,Valencia,0,1
+2017-05-13,Osasuna,Granada,2,1
+2017-05-14,Alaves,Celta,3,1
+2017-05-14,Ath Bilbao,Leganes,1,1
+2017-05-14,Betis,Ath Madrid,1,1
+2017-05-14,Eibar,Sp Gijon,0,1
+2017-05-14,Las Palmas,Barcelona,1,4
+2017-05-14,Real Madrid,Sevilla,4,1
+2017-05-14,Sociedad,Malaga,2,2
+2017-05-14,Villarreal,La Coruna,0,0
+2017-05-17,Celta,Real Madrid,1,4
+2017-05-19,Granada,Espanol,1,2
+2017-05-20,La Coruna,Las Palmas,3,0
+2017-05-20,Leganes,Alaves,1,1
+2017-05-20,Sevilla,Osasuna,5,0
+2017-05-20,Sp Gijon,Betis,2,2
+2017-05-21,Ath Madrid,Ath Bilbao,3,1
+2017-05-21,Barcelona,Eibar,4,2
+2017-05-21,Celta,Sociedad,2,2
+2017-05-21,Malaga,Real Madrid,0,2
+2017-05-21,Valencia,Villarreal,1,3
+2017-08-18,Leganes,Alaves,1,0
+2017-08-18,Valencia,Las Palmas,1,0
+2017-08-19,Celta,Sociedad,2,3
+2017-08-19,Girona,Ath Madrid,2,2
+2017-08-19,Sevilla,Espanol,1,1
+2017-08-20,Ath Bilbao,Getafe,0,0
+2017-08-20,Barcelona,Betis,2,0
+2017-08-20,La Coruna,Real Madrid,0,3
+2017-08-21,Levante,Villarreal,1,0
+2017-08-21,Malaga,Eibar,0,1
+2017-08-25,Betis,Celta,2,1
+2017-08-25,Sociedad,Villarreal,3,0
+2017-08-26,Alaves,Barcelona,0,2
+2017-08-26,Girona,Malaga,1,0
+2017-08-26,Las Palmas,Ath Madrid,1,5
+2017-08-26,Levante,La Coruna,2,2
+2017-08-27,Eibar,Ath Bilbao,0,1
+2017-08-27,Espanol,Leganes,0,1
+2017-08-27,Getafe,Sevilla,0,1
+2017-08-27,Real Madrid,Valencia,2,2
+2017-09-08,Leganes,Getafe,1,2
+2017-09-09,Barcelona,Espanol,5,0
+2017-09-09,Real Madrid,Levante,1,1
+2017-09-09,Sevilla,Eibar,3,0
+2017-09-09,Valencia,Ath Madrid,0,0
+2017-09-10,Ath Bilbao,Girona,2,0
+2017-09-10,Celta,Alaves,1,0
+2017-09-10,La Coruna,Sociedad,2,4
+2017-09-10,Villarreal,Betis,3,1
+2017-09-11,Malaga,Las Palmas,1,3
+2017-09-15,Eibar,Leganes,1,0
+2017-09-16,Ath Madrid,Malaga,1,0
+2017-09-16,Betis,La Coruna,2,1
+2017-09-16,Getafe,Barcelona,1,2
+2017-09-16,Levante,Valencia,1,1
+2017-09-17,Alaves,Villarreal,0,3
+2017-09-17,Girona,Sevilla,0,1
+2017-09-17,Las Palmas,Ath Bilbao,1,0
+2017-09-17,Sociedad,Real Madrid,1,3
+2017-09-18,Espanol,Celta,2,1
+2017-09-19,Barcelona,Eibar,6,1
+2017-09-19,Valencia,Malaga,5,0
+2017-09-20,Ath Bilbao,Ath Madrid,1,2
+2017-09-20,La Coruna,Alaves,1,0
+2017-09-20,Leganes,Girona,0,0
+2017-09-20,Real Madrid,Betis,0,1
+2017-09-20,Sevilla,Las Palmas,1,0
+2017-09-21,Celta,Getafe,1,1
+2017-09-21,Levante,Sociedad,3,0
+2017-09-21,Villarreal,Espanol,0,0
+2017-09-23,Alaves,Real Madrid,1,2
+2017-09-23,Ath Madrid,Sevilla,2,0
+2017-09-23,Girona,Barcelona,0,3
+2017-09-23,Malaga,Ath Bilbao,3,3
+2017-09-24,Eibar,Celta,0,4
+2017-09-24,Espanol,La Coruna,4,1
+2017-09-24,Getafe,Villarreal,4,0
+2017-09-24,Las Palmas,Leganes,0,2
+2017-09-24,Sociedad,Valencia,2,3
+2017-09-25,Betis,Levante,4,0
+2017-09-29,Celta,Girona,3,3
+2017-09-30,La Coruna,Getafe,2,1
+2017-09-30,Leganes,Ath Madrid,0,0
+2017-09-30,Levante,Alaves,0,2
+2017-09-30,Sevilla,Malaga,2,0
+2017-10-01,Barcelona,Las Palmas,3,0
+2017-10-01,Real Madrid,Espanol,2,0
+2017-10-01,Sociedad,Betis,4,4
+2017-10-01,Valencia,Ath Bilbao,3,2
+2017-10-01,Villarreal,Eibar,3,0
+2017-10-13,Espanol,Levante,0,0
+2017-10-14,Alaves,Sociedad,0,2
+2017-10-14,Ath Bilbao,Sevilla,1,0
+2017-10-14,Ath Madrid,Barcelona,1,1
+2017-10-14,Getafe,Real Madrid,1,2
+2017-10-15,Betis,Valencia,3,6
+2017-10-15,Eibar,La Coruna,0,0
+2017-10-15,Girona,Villarreal,1,2
+2017-10-15,Malaga,Leganes,0,2
+2017-10-16,Las Palmas,Celta,2,5
+2017-10-21,Barcelona,Malaga,2,0
+2017-10-21,Betis,Alaves,2,0
+2017-10-21,Levante,Getafe,1,1
+2017-10-21,Valencia,Sevilla,4,0
+2017-10-22,Celta,Ath Madrid,0,1
+2017-10-22,Leganes,Ath Bilbao,1,0
+2017-10-22,Real Madrid,Eibar,3,0
+2017-10-22,Villarreal,Las Palmas,4,0
+2017-10-23,La Coruna,Girona,1,2
+2017-10-23,Sociedad,Espanol,1,1
+2017-10-28,Alaves,Valencia,1,2
+2017-10-28,Ath Bilbao,Barcelona,0,2
+2017-10-28,Ath Madrid,Villarreal,1,1
+2017-10-28,Sevilla,Leganes,2,1
+2017-10-29,Eibar,Levante,2,2
+2017-10-29,Getafe,Sociedad,2,1
+2017-10-29,Girona,Real Madrid,2,1
+2017-10-29,Malaga,Celta,2,1
+2017-10-30,Espanol,Betis,1,0
+2017-10-30,Las Palmas,La Coruna,1,3
+2017-11-03,Betis,Getafe,2,2
+2017-11-04,Alaves,Espanol,1,0
+2017-11-04,Barcelona,Sevilla,2,1
+2017-11-04,La Coruna,Ath Madrid,0,1
+2017-11-04,Valencia,Leganes,3,0
+2017-11-05,Celta,Ath Bilbao,3,1
+2017-11-05,Levante,Girona,1,2
+2017-11-05,Real Madrid,Las Palmas,3,0
+2017-11-05,Sociedad,Eibar,3,1
+2017-11-05,Villarreal,Malaga,2,0
+2017-11-17,Girona,Sociedad,1,1
+2017-11-18,Ath Madrid,Real Madrid,0,0
+2017-11-18,Getafe,Alaves,4,1
+2017-11-18,Leganes,Barcelona,0,3
+2017-11-18,Sevilla,Celta,2,1
+2017-11-19,Ath Bilbao,Villarreal,1,1
+2017-11-19,Espanol,Valencia,0,2
+2017-11-19,Las Palmas,Levante,0,2
+2017-11-19,Malaga,La Coruna,3,2
+2017-11-20,Eibar,Betis,5,0
+2017-11-24,Celta,Leganes,1,0
+2017-11-25,Alaves,Eibar,1,2
+2017-11-25,Betis,Girona,2,2
+2017-11-25,Levante,Ath Madrid,0,5
+2017-11-25,Real Madrid,Malaga,3,2
+2017-11-26,La Coruna,Ath Bilbao,2,2
+2017-11-26,Sociedad,Las Palmas,2,2
+2017-11-26,Valencia,Barcelona,1,1
+2017-11-26,Villarreal,Sevilla,2,3
+2017-11-27,Espanol,Getafe,1,0
+2017-12-01,Malaga,Levante,0,0
+2017-12-02,Ath Bilbao,Real Madrid,0,0
+2017-12-02,Ath Madrid,Sociedad,2,1
+2017-12-02,Barcelona,Celta,2,2
+2017-12-02,Sevilla,La Coruna,2,0
+2017-12-03,Eibar,Espanol,3,1
+2017-12-03,Getafe,Valencia,1,0
+2017-12-03,Las Palmas,Betis,1,0
+2017-12-03,Leganes,Villarreal,3,1
+2017-12-04,Girona,Alaves,2,3
+2017-12-08,Alaves,Las Palmas,2,0
+2017-12-09,Getafe,Eibar,0,0
+2017-12-09,La Coruna,Leganes,1,0
+2017-12-09,Real Madrid,Sevilla,5,0
+2017-12-09,Valencia,Celta,2,1
+2017-12-10,Betis,Ath Madrid,0,1
+2017-12-10,Levante,Ath Bilbao,1,2
+2017-12-10,Sociedad,Malaga,0,2
+2017-12-10,Villarreal,Barcelona,0,2
+2017-12-11,Espanol,Girona,0,1
+2017-12-15,Sevilla,Levante,0,0
+2017-12-16,Ath Bilbao,Sociedad,0,0
+2017-12-16,Ath Madrid,Alaves,1,0
+2017-12-16,Eibar,Valencia,2,1
+2017-12-17,Barcelona,La Coruna,4,0
+2017-12-17,Celta,Villarreal,0,1
+2017-12-17,Girona,Getafe,1,0
+2017-12-17,Las Palmas,Espanol,2,2
+2017-12-18,Malaga,Betis,0,2
+2017-12-19,Levante,Leganes,0,0
+2017-12-20,Getafe,Las Palmas,2,0
+2017-12-20,Sociedad,Sevilla,3,1
+2017-12-21,Alaves,Malaga,1,0
+2017-12-21,Eibar,Girona,4,1
+2017-12-22,Betis,Ath Bilbao,0,2
+2017-12-22,Espanol,Ath Madrid,1,0
+2017-12-23,La Coruna,Celta,1,3
+2017-12-23,Real Madrid,Barcelona,0,3
+2017-12-23,Valencia,Villarreal,0,1
+2018-01-06,Ath Madrid,Getafe,2,0
+2018-01-06,Las Palmas,Eibar,1,2
+2018-01-06,Sevilla,Betis,3,5
+2018-01-06,Valencia,Girona,2,1
+2018-01-07,Ath Bilbao,Alaves,2,0
+2018-01-07,Barcelona,Levante,3,0
+2018-01-07,Celta,Real Madrid,2,2
+2018-01-07,Leganes,Sociedad,1,0
+2018-01-07,Villarreal,La Coruna,1,1
+2018-01-08,Malaga,Espanol,0,1
+2018-01-12,Getafe,Malaga,1,0
+2018-01-13,Eibar,Ath Madrid,0,1
+2018-01-13,Girona,Las Palmas,6,0
+2018-01-13,La Coruna,Valencia,1,2
+2018-01-13,Real Madrid,Villarreal,0,1
+2018-01-14,Alaves,Sevilla,1,0
+2018-01-14,Espanol,Ath Bilbao,1,1
+2018-01-14,Levante,Celta,0,1
+2018-01-14,Sociedad,Barcelona,2,4
+2018-01-15,Betis,Leganes,3,2
+2018-01-19,Getafe,Ath Bilbao,2,2
+2018-01-20,Ath Madrid,Girona,1,1
+2018-01-20,Espanol,Sevilla,0,3
+2018-01-20,Las Palmas,Valencia,2,1
+2018-01-20,Villarreal,Levante,2,1
+2018-01-21,Alaves,Leganes,2,2
+2018-01-21,Betis,Barcelona,0,5
+2018-01-21,Real Madrid,La Coruna,7,1
+2018-01-21,Sociedad,Celta,1,2
+2018-01-22,Eibar,Malaga,1,1
+2018-01-26,Ath Bilbao,Eibar,1,1
+2018-01-27,La Coruna,Levante,2,2
+2018-01-27,Malaga,Girona,0,0
+2018-01-27,Valencia,Real Madrid,1,4
+2018-01-27,Villarreal,Sociedad,4,2
+2018-01-28,Ath Madrid,Las Palmas,3,0
+2018-01-28,Barcelona,Alaves,2,1
+2018-01-28,Leganes,Espanol,3,2
+2018-01-28,Sevilla,Getafe,1,1
+2018-01-29,Celta,Betis,3,2
+2018-02-02,Sociedad,La Coruna,5,0
+2018-02-03,Alaves,Celta,2,1
+2018-02-03,Betis,Villarreal,2,1
+2018-02-03,Eibar,Sevilla,5,1
+2018-02-03,Levante,Real Madrid,2,2
+2018-02-04,Ath Madrid,Valencia,1,0
+2018-02-04,Espanol,Barcelona,1,1
+2018-02-04,Getafe,Leganes,0,0
+2018-02-04,Girona,Ath Bilbao,2,0
+2018-02-05,Las Palmas,Malaga,1,0
+2018-02-09,Ath Bilbao,Las Palmas,0,0
+2018-02-10,Leganes,Eibar,0,1
+2018-02-10,Malaga,Ath Madrid,0,1
+2018-02-10,Real Madrid,Sociedad,5,2
+2018-02-10,Villarreal,Alaves,1,2
+2018-02-11,Barcelona,Getafe,0,0
+2018-02-11,Celta,Espanol,2,2
+2018-02-11,Sevilla,Girona,1,0
+2018-02-11,Valencia,Levante,3,1
+2018-02-12,La Coruna,Betis,0,1
+2018-02-16,Girona,Leganes,3,0
+2018-02-17,Alaves,La Coruna,1,0
+2018-02-17,Eibar,Barcelona,0,2
+2018-02-17,Las Palmas,Sevilla,1,2
+2018-02-17,Malaga,Valencia,1,2
+2018-02-18,Ath Madrid,Ath Bilbao,2,0
+2018-02-18,Betis,Real Madrid,3,5
+2018-02-18,Espanol,Villarreal,1,1
+2018-02-18,Sociedad,Levante,3,0
+2018-02-19,Getafe,Celta,3,0
+2018-02-21,Leganes,Real Madrid,1,3
+2018-02-23,La Coruna,Espanol,0,0
+2018-02-24,Barcelona,Girona,6,1
+2018-02-24,Celta,Eibar,2,0
+2018-02-24,Leganes,Las Palmas,0,0
+2018-02-24,Real Madrid,Alaves,4,0
+2018-02-25,Ath Bilbao,Malaga,2,1
+2018-02-25,Sevilla,Ath Madrid,2,5
+2018-02-25,Valencia,Sociedad,2,1
+2018-02-25,Villarreal,Getafe,1,0
+2018-02-26,Levante,Betis,0,2
+2018-02-27,Espanol,Real Madrid,1,0
+2018-02-27,Girona,Celta,1,0
+2018-02-28,Ath Bilbao,Valencia,1,1
+2018-02-28,Ath Madrid,Leganes,4,0
+2018-02-28,Eibar,Villarreal,1,0
+2018-02-28,Getafe,La Coruna,3,0
+2018-02-28,Malaga,Sevilla,0,1
+2018-03-01,Alaves,Levante,1,0
+2018-03-01,Betis,Sociedad,0,0
+2018-03-01,Las Palmas,Barcelona,1,1
+2018-03-03,La Coruna,Eibar,1,1
+2018-03-03,Leganes,Malaga,2,0
+2018-03-03,Real Madrid,Getafe,3,1
+2018-03-03,Sevilla,Ath Bilbao,2,0
+2018-03-03,Villarreal,Girona,0,2
+2018-03-04,Barcelona,Ath Madrid,1,0
+2018-03-04,Levante,Espanol,1,1
+2018-03-04,Sociedad,Alaves,2,1
+2018-03-04,Valencia,Betis,2,0
+2018-03-05,Celta,Las Palmas,2,1
+2018-03-09,Girona,La Coruna,2,0
+2018-03-10,Eibar,Real Madrid,1,2
+2018-03-10,Getafe,Levante,0,1
+2018-03-10,Malaga,Barcelona,0,2
+2018-03-10,Sevilla,Valencia,0,2
+2018-03-11,Ath Bilbao,Leganes,2,0
+2018-03-11,Ath Madrid,Celta,3,0
+2018-03-11,Espanol,Sociedad,2,1
+2018-03-11,Las Palmas,Villarreal,0,2
+2018-03-12,Alaves,Betis,1,3
+2018-03-16,Levante,Eibar,2,1
+2018-03-17,Betis,Espanol,3,0
+2018-03-17,La Coruna,Las Palmas,1,1
+2018-03-17,Sociedad,Getafe,1,2
+2018-03-17,Valencia,Alaves,3,1
+2018-03-18,Barcelona,Ath Bilbao,2,0
+2018-03-18,Celta,Malaga,0,0
+2018-03-18,Leganes,Sevilla,2,1
+2018-03-18,Real Madrid,Girona,6,3
+2018-03-18,Villarreal,Ath Madrid,2,1
+2018-03-31,Ath Bilbao,Celta,1,1
+2018-03-31,Girona,Levante,1,1
+2018-03-31,Las Palmas,Real Madrid,0,3
+2018-03-31,Sevilla,Barcelona,2,2
+2018-04-01,Ath Madrid,La Coruna,1,0
+2018-04-01,Eibar,Sociedad,0,0
+2018-04-01,Espanol,Alaves,0,0
+2018-04-01,Leganes,Valencia,0,1
+2018-04-01,Malaga,Villarreal,1,0
+2018-04-02,Getafe,Betis,0,1
+2018-04-06,La Coruna,Malaga,3,2
+2018-04-07,Alaves,Getafe,2,0
+2018-04-07,Barcelona,Leganes,3,1
+2018-04-07,Betis,Eibar,2,0
+2018-04-07,Celta,Sevilla,4,0
+2018-04-08,Levante,Las Palmas,2,1
+2018-04-08,Real Madrid,Ath Madrid,1,1
+2018-04-08,Sociedad,Girona,5,0
+2018-04-08,Valencia,Espanol,1,0
+2018-04-09,Villarreal,Ath Bilbao,1,3
+2018-04-13,Girona,Betis,0,1
+2018-04-14,Ath Bilbao,La Coruna,2,3
+2018-04-14,Barcelona,Valencia,2,1
+2018-04-14,Las Palmas,Sociedad,0,1
+2018-04-14,Leganes,Celta,1,0
+2018-04-14,Sevilla,Villarreal,2,2
+2018-04-15,Ath Madrid,Levante,3,0
+2018-04-15,Eibar,Alaves,0,1
+2018-04-15,Getafe,Espanol,1,0
+2018-04-15,Malaga,Real Madrid,1,2
+2018-04-17,Celta,Barcelona,2,2
+2018-04-17,La Coruna,Sevilla,0,0
+2018-04-17,Villarreal,Leganes,2,1
+2018-04-18,Espanol,Eibar,0,1
+2018-04-18,Real Madrid,Ath Bilbao,1,1
+2018-04-18,Valencia,Getafe,1,2
+2018-04-19,Alaves,Girona,1,2
+2018-04-19,Betis,Las Palmas,1,0
+2018-04-19,Levante,Malaga,1,0
+2018-04-19,Sociedad,Ath Madrid,3,0
+2018-04-20,Leganes,La Coruna,0,0
+2018-04-21,Celta,Valencia,1,1
+2018-04-21,Eibar,Getafe,0,1
+2018-04-22,Ath Madrid,Betis,0,0
+2018-04-22,Girona,Espanol,0,2
+2018-04-22,Las Palmas,Alaves,0,4
+2018-04-22,Malaga,Sociedad,2,0
+2018-04-23,Ath Bilbao,Levante,1,3
+2018-04-27,Levante,Sevilla,2,1
+2018-04-28,Espanol,Las Palmas,1,1
+2018-04-28,Real Madrid,Leganes,2,1
+2018-04-28,Sociedad,Ath Bilbao,3,1
+2018-04-28,Villarreal,Celta,4,1
+2018-04-29,Alaves,Ath Madrid,0,1
+2018-04-29,Getafe,Girona,1,1
+2018-04-29,La Coruna,Barcelona,2,4
+2018-04-29,Valencia,Eibar,0,0
+2018-04-30,Betis,Malaga,2,1
+2018-05-04,Sevilla,Sociedad,1,0
+2018-05-05,Ath Bilbao,Betis,2,0
+2018-05-05,Celta,La Coruna,1,1
+2018-05-05,Girona,Eibar,1,4
+2018-05-05,Villarreal,Valencia,1,0
+2018-05-06,Ath Madrid,Espanol,0,2
+2018-05-06,Barcelona,Real Madrid,2,2
+2018-05-06,Las Palmas,Getafe,0,1
+2018-05-06,Malaga,Alaves,0,3
+2018-05-07,Leganes,Levante,0,3
+2018-05-09,Barcelona,Villarreal,5,1
+2018-05-09,Sevilla,Real Madrid,3,2
+2018-05-12,Alaves,Ath Bilbao,3,1
+2018-05-12,Betis,Sevilla,2,2
+2018-05-12,Eibar,Las Palmas,1,0
+2018-05-12,Getafe,Ath Madrid,0,1
+2018-05-12,Girona,Valencia,0,1
+2018-05-12,La Coruna,Villarreal,2,4
+2018-05-12,Real Madrid,Celta,6,0
+2018-05-12,Sociedad,Leganes,3,2
+2018-05-13,Espanol,Malaga,4,1
+2018-05-13,Levante,Barcelona,5,4
+2018-05-19,Celta,Levante,4,2
+2018-05-19,Las Palmas,Girona,1,2
+2018-05-19,Leganes,Betis,3,2
+2018-05-19,Malaga,Getafe,0,1
+2018-05-19,Sevilla,Alaves,1,0
+2018-05-19,Villarreal,Real Madrid,2,2
+2018-05-20,Ath Bilbao,Espanol,0,1
+2018-05-20,Ath Madrid,Eibar,2,2
+2018-05-20,Barcelona,Sociedad,1,0
+2018-05-20,Valencia,La Coruna,2,1
+2018-08-17,Betis,Levante,0,3
+2018-08-17,Girona,Valladolid,0,0
+2018-08-18,Barcelona,Alaves,3,0
+2018-08-18,Celta,Espanol,1,1
+2018-08-18,Villarreal,Sociedad,1,2
+2018-08-19,Eibar,Huesca,1,2
+2018-08-19,Real Madrid,Getafe,2,0
+2018-08-19,Vallecano,Sevilla,1,4
+2018-08-20,Ath Bilbao,Leganes,2,1
+2018-08-20,Valencia,Ath Madrid,1,1
+2018-08-24,Getafe,Eibar,2,0
+2018-08-24,Leganes,Sociedad,2,2
+2018-08-25,Alaves,Betis,0,0
+2018-08-25,Ath Madrid,Vallecano,1,0
+2018-08-25,Valladolid,Barcelona,0,1
+2018-08-26,Espanol,Valencia,2,0
+2018-08-26,Girona,Real Madrid,1,4
+2018-08-26,Sevilla,Villarreal,0,0
+2018-08-27,Ath Bilbao,Huesca,2,2
+2018-08-27,Levante,Celta,1,2
+2018-08-31,Eibar,Sociedad,2,1
+2018-08-31,Getafe,Valladolid,0,0
+2018-08-31,Villarreal,Girona,0,1
+2018-09-01,Celta,Ath Madrid,2,0
+2018-09-01,Real Madrid,Leganes,4,1
+2018-09-02,Alaves,Espanol,2,1
+2018-09-02,Barcelona,Huesca,8,2
+2018-09-02,Betis,Sevilla,1,0
+2018-09-02,Levante,Valencia,2,2
+2018-09-14,Huesca,Vallecano,0,1
+2018-09-15,Ath Bilbao,Real Madrid,1,1
+2018-09-15,Ath Madrid,Eibar,1,1
+2018-09-15,Sociedad,Barcelona,1,2
+2018-09-15,Valencia,Betis,0,0
+2018-09-16,Espanol,Levante,1,0
+2018-09-16,Leganes,Villarreal,0,1
+2018-09-16,Sevilla,Getafe,0,2
+2018-09-16,Valladolid,Alaves,0,1
+2018-09-17,Girona,Celta,3,2
+2018-09-21,Huesca,Sociedad,0,1
+2018-09-22,Celta,Valladolid,3,3
+2018-09-22,Eibar,Leganes,1,0
+2018-09-22,Getafe,Ath Madrid,0,2
+2018-09-22,Real Madrid,Espanol,1,0
+2018-09-22,Vallecano,Alaves,1,5
+2018-09-23,Barcelona,Girona,2,2
+2018-09-23,Betis,Ath Bilbao,2,2
+2018-09-23,Levante,Sevilla,2,6
+2018-09-23,Villarreal,Valencia,0,0
+2018-09-25,Ath Madrid,Huesca,3,0
+2018-09-25,Espanol,Eibar,1,0
+2018-09-25,Sociedad,Vallecano,2,2
+2018-09-26,Ath Bilbao,Villarreal,0,3
+2018-09-26,Leganes,Barcelona,2,1
+2018-09-26,Sevilla,Real Madrid,3,0
+2018-09-26,Valencia,Celta,1,1
+2018-09-27,Alaves,Getafe,1,1
+2018-09-27,Girona,Betis,0,1
+2018-09-27,Valladolid,Levante,2,1
+2018-09-28,Vallecano,Espanol,2,2
+2018-09-29,Barcelona,Ath Bilbao,1,1
+2018-09-29,Eibar,Sevilla,1,3
+2018-09-29,Real Madrid,Ath Madrid,0,0
+2018-09-29,Sociedad,Valencia,0,1
+2018-09-30,Betis,Leganes,1,0
+2018-09-30,Huesca,Girona,1,1
+2018-09-30,Levante,Alaves,2,1
+2018-09-30,Villarreal,Valladolid,0,1
+2018-10-01,Celta,Getafe,1,1
+2018-10-05,Ath Bilbao,Sociedad,1,3
+2018-10-06,Alaves,Real Madrid,1,0
+2018-10-06,Getafe,Levante,0,1
+2018-10-06,Girona,Eibar,2,3
+2018-10-06,Leganes,Vallecano,1,0
+2018-10-07,Ath Madrid,Betis,1,0
+2018-10-07,Espanol,Villarreal,3,1
+2018-10-07,Sevilla,Celta,2,1
+2018-10-07,Valencia,Barcelona,1,1
+2018-10-07,Valladolid,Huesca,1,0
+2018-10-19,Celta,Alaves,0,1
+2018-10-20,Barcelona,Sevilla,4,2
+2018-10-20,Real Madrid,Levante,1,2
+2018-10-20,Valencia,Leganes,1,1
+2018-10-20,Villarreal,Ath Madrid,1,1
+2018-10-21,Betis,Valladolid,0,1
+2018-10-21,Eibar,Ath Bilbao,1,1
+2018-10-21,Huesca,Espanol,0,2
+2018-10-21,Vallecano,Getafe,1,2
+2018-10-22,Sociedad,Girona,0,0
+2018-10-24,Vallecano,Ath Bilbao,1,1
+2018-10-26,Valladolid,Espanol,1,1
+2018-10-27,Ath Bilbao,Valencia,0,0
+2018-10-27,Ath Madrid,Sociedad,2,0
+2018-10-27,Celta,Eibar,4,0
+2018-10-27,Girona,Vallecano,2,1
+2018-10-27,Levante,Leganes,2,0
+2018-10-28,Alaves,Villarreal,2,1
+2018-10-28,Barcelona,Real Madrid,5,1
+2018-10-28,Getafe,Betis,2,0
+2018-10-28,Sevilla,Huesca,2,1
+2018-11-03,Leganes,Ath Madrid,1,1
+2018-11-03,Real Madrid,Valladolid,2,0
+2018-11-03,Valencia,Girona,0,1
+2018-11-03,Vallecano,Barcelona,2,3
+2018-11-04,Betis,Celta,3,3
+2018-11-04,Eibar,Alaves,2,1
+2018-11-04,Huesca,Getafe,1,1
+2018-11-04,Sociedad,Sevilla,0,0
+2018-11-04,Villarreal,Levante,1,1
+2018-11-05,Espanol,Ath Bilbao,1,0
+2018-11-09,Levante,Sociedad,1,3
+2018-11-10,Ath Madrid,Ath Bilbao,3,2
+2018-11-10,Getafe,Valencia,0,1
+2018-11-10,Girona,Leganes,0,0
+2018-11-10,Valladolid,Eibar,0,0
+2018-11-11,Alaves,Huesca,2,1
+2018-11-11,Barcelona,Betis,3,4
+2018-11-11,Celta,Real Madrid,2,4
+2018-11-11,Sevilla,Espanol,2,1
+2018-11-11,Vallecano,Villarreal,2,2
+2018-11-23,Leganes,Alaves,1,0
+2018-11-24,Ath Madrid,Barcelona,1,1
+2018-11-24,Eibar,Real Madrid,3,0
+2018-11-24,Huesca,Levante,2,2
+2018-11-24,Valencia,Vallecano,3,0
+2018-11-25,Ath Bilbao,Getafe,1,1
+2018-11-25,Espanol,Girona,1,3
+2018-11-25,Sevilla,Valladolid,1,0
+2018-11-25,Villarreal,Betis,2,1
+2018-11-26,Sociedad,Celta,2,1
+2018-11-30,Vallecano,Eibar,1,0
+2018-12-01,Celta,Huesca,2,0
+2018-12-01,Getafe,Espanol,3,0
+2018-12-01,Real Madrid,Valencia,2,0
+2018-12-01,Valladolid,Leganes,2,4
+2018-12-02,Alaves,Sevilla,1,1
+2018-12-02,Barcelona,Villarreal,2,0
+2018-12-02,Betis,Sociedad,1,0
+2018-12-02,Girona,Ath Madrid,1,1
+2018-12-03,Levante,Ath Bilbao,3,0
+2018-12-07,Leganes,Getafe,1,1
+2018-12-08,Ath Madrid,Alaves,3,0
+2018-12-08,Espanol,Barcelona,0,4
+2018-12-08,Valencia,Sevilla,1,1
+2018-12-08,Villarreal,Celta,2,3
+2018-12-09,Betis,Vallecano,2,0
+2018-12-09,Eibar,Levante,4,4
+2018-12-09,Huesca,Real Madrid,0,1
+2018-12-09,Sociedad,Valladolid,1,2
+2018-12-10,Ath Bilbao,Girona,1,0
+2018-12-14,Celta,Leganes,0,0
+2018-12-15,Eibar,Valencia,1,1
+2018-12-15,Getafe,Sociedad,1,0
+2018-12-15,Real Madrid,Vallecano,1,0
+2018-12-15,Valladolid,Ath Madrid,2,3
+2018-12-16,Espanol,Betis,1,3
+2018-12-16,Huesca,Villarreal,2,2
+2018-12-16,Levante,Barcelona,0,5
+2018-12-16,Sevilla,Girona,2,0
+2018-12-17,Alaves,Ath Bilbao,0,0
+2018-12-21,Girona,Getafe,1,1
+2018-12-21,Sociedad,Alaves,0,1
+2018-12-22,Ath Bilbao,Valladolid,1,1
+2018-12-22,Ath Madrid,Espanol,1,0
+2018-12-22,Barcelona,Celta,2,0
+2018-12-22,Betis,Eibar,1,1
+2018-12-23,Leganes,Sevilla,1,1
+2018-12-23,Valencia,Huesca,2,1
+2018-12-23,Vallecano,Levante,2,1
+2019-01-03,Villarreal,Real Madrid,2,2
+2019-01-04,Espanol,Leganes,1,0
+2019-01-04,Levante,Girona,2,2
+2019-01-05,Alaves,Valencia,2,1
+2019-01-05,Huesca,Betis,2,1
+2019-01-05,Valladolid,Vallecano,0,1
+2019-01-06,Eibar,Villarreal,0,0
+2019-01-06,Getafe,Barcelona,1,2
+2019-01-06,Real Madrid,Sociedad,0,2
+2019-01-06,Sevilla,Ath Madrid,1,1
+2019-01-07,Celta,Ath Bilbao,1,2
+2019-01-11,Vallecano,Celta,4,2
+2019-01-12,Girona,Alaves,1,1
+2019-01-12,Leganes,Huesca,1,0
+2019-01-12,Valencia,Valladolid,1,1
+2019-01-12,Villarreal,Getafe,1,2
+2019-01-13,Ath Bilbao,Sevilla,2,0
+2019-01-13,Ath Madrid,Levante,1,0
+2019-01-13,Barcelona,Eibar,3,0
+2019-01-13,Betis,Real Madrid,1,2
+2019-01-14,Sociedad,Espanol,3,2
+2019-01-18,Getafe,Alaves,4,0
+2019-01-19,Celta,Valencia,1,2
+2019-01-19,Huesca,Ath Madrid,0,3
+2019-01-19,Real Madrid,Sevilla,2,0
+2019-01-20,Barcelona,Leganes,3,1
+2019-01-20,Betis,Girona,3,2
+2019-01-20,Levante,Valladolid,2,0
+2019-01-20,Vallecano,Sociedad,2,2
+2019-01-20,Villarreal,Ath Bilbao,1,1
+2019-01-21,Eibar,Espanol,3,0
+2019-01-26,Ath Madrid,Getafe,2,0
+2019-01-26,Leganes,Eibar,2,2
+2019-01-26,Sevilla,Levante,5,0
+2019-01-26,Valencia,Villarreal,3,0
+2019-01-27,Ath Bilbao,Betis,1,0
+2019-01-27,Espanol,Real Madrid,2,4
+2019-01-27,Girona,Barcelona,0,2
+2019-01-27,Sociedad,Huesca,0,0
+2019-01-27,Valladolid,Celta,2,1
+2019-01-28,Alaves,Vallecano,0,1
+2019-02-01,Huesca,Valladolid,4,0
+2019-02-02,Barcelona,Valencia,2,2
+2019-02-02,Celta,Sevilla,1,0
+2019-02-02,Levante,Getafe,0,0
+2019-02-02,Sociedad,Ath Bilbao,2,1
+2019-02-03,Betis,Ath Madrid,1,0
+2019-02-03,Eibar,Girona,3,0
+2019-02-03,Real Madrid,Alaves,3,0
+2019-02-03,Villarreal,Espanol,2,2
+2019-02-04,Vallecano,Leganes,1,2
+2019-02-08,Valladolid,Villarreal,0,0
+2019-02-09,Ath Madrid,Real Madrid,1,3
+2019-02-09,Espanol,Vallecano,2,1
+2019-02-09,Getafe,Celta,3,1
+2019-02-09,Girona,Huesca,0,2
+2019-02-10,Ath Bilbao,Barcelona,0,0
+2019-02-10,Leganes,Betis,3,0
+2019-02-10,Sevilla,Eibar,2,2
+2019-02-10,Valencia,Sociedad,0,0
+2019-02-11,Alaves,Levante,2,0
+2019-02-15,Eibar,Getafe,2,2
+2019-02-16,Barcelona,Valladolid,1,0
+2019-02-16,Celta,Levante,1,4
+2019-02-16,Sociedad,Leganes,3,0
+2019-02-16,Vallecano,Ath Madrid,0,1
+2019-02-17,Betis,Alaves,1,1
+2019-02-17,Real Madrid,Girona,1,2
+2019-02-17,Valencia,Espanol,0,0
+2019-02-17,Villarreal,Sevilla,3,0
+2019-02-18,Huesca,Ath Bilbao,0,1
+2019-02-22,Espanol,Huesca,1,1
+2019-02-23,Alaves,Celta,0,0
+2019-02-23,Ath Bilbao,Eibar,1,0
+2019-02-23,Getafe,Vallecano,2,1
+2019-02-23,Sevilla,Barcelona,2,4
+2019-02-24,Ath Madrid,Villarreal,2,0
+2019-02-24,Leganes,Valencia,1,1
+2019-02-24,Levante,Real Madrid,1,2
+2019-02-24,Valladolid,Betis,0,2
+2019-02-25,Girona,Sociedad,0,0
+2019-03-01,Vallecano,Girona,0,2
+2019-03-02,Espanol,Valladolid,3,1
+2019-03-02,Huesca,Sevilla,2,1
+2019-03-02,Real Madrid,Barcelona,0,1
+2019-03-02,Villarreal,Alaves,1,2
+2019-03-03,Betis,Getafe,1,2
+2019-03-03,Eibar,Celta,1,0
+2019-03-03,Sociedad,Ath Madrid,0,2
+2019-03-03,Valencia,Ath Bilbao,2,0
+2019-03-04,Leganes,Levante,1,0
+2019-03-08,Ath Bilbao,Espanol,1,1
+2019-03-09,Alaves,Eibar,1,1
+2019-03-09,Ath Madrid,Leganes,1,0
+2019-03-09,Barcelona,Vallecano,3,1
+2019-03-09,Getafe,Huesca,2,1
+2019-03-10,Celta,Betis,0,1
+2019-03-10,Girona,Valencia,2,3
+2019-03-10,Levante,Villarreal,0,2
+2019-03-10,Sevilla,Sociedad,5,2
+2019-03-10,Valladolid,Real Madrid,1,4
+2019-03-15,Sociedad,Levante,1,1
+2019-03-16,Ath Bilbao,Ath Madrid,2,0
+2019-03-16,Huesca,Alaves,1,3
+2019-03-16,Leganes,Girona,0,2
+2019-03-16,Real Madrid,Celta,2,0
+2019-03-17,Betis,Barcelona,1,4
+2019-03-17,Eibar,Valladolid,1,2
+2019-03-17,Espanol,Sevilla,0,1
+2019-03-17,Valencia,Getafe,0,0
+2019-03-17,Villarreal,Vallecano,3,1
+2019-03-29,Girona,Ath Bilbao,1,2
+2019-03-30,Alaves,Ath Madrid,0,4
+2019-03-30,Barcelona,Espanol,2,0
+2019-03-30,Celta,Villarreal,3,2
+2019-03-30,Getafe,Leganes,0,2
+2019-03-31,Levante,Eibar,2,2
+2019-03-31,Real Madrid,Huesca,3,2
+2019-03-31,Sevilla,Valencia,0,1
+2019-03-31,Valladolid,Sociedad,1,1
+2019-03-31,Vallecano,Betis,1,1
+2019-04-02,Ath Madrid,Girona,2,0
+2019-04-02,Espanol,Getafe,1,1
+2019-04-02,Villarreal,Barcelona,4,4
+2019-04-03,Ath Bilbao,Levante,3,2
+2019-04-03,Eibar,Vallecano,2,1
+2019-04-03,Huesca,Celta,3,3
+2019-04-03,Valencia,Real Madrid,2,1
+2019-04-04,Leganes,Valladolid,1,0
+2019-04-04,Sevilla,Alaves,2,0
+2019-04-04,Sociedad,Betis,2,1
+2019-04-06,Barcelona,Ath Madrid,2,0
+2019-04-06,Girona,Espanol,1,2
+2019-04-06,Real Madrid,Eibar,2,1
+2019-04-06,Vallecano,Valencia,2,0
+2019-04-07,Alaves,Leganes,1,1
+2019-04-07,Betis,Villarreal,2,1
+2019-04-07,Celta,Sociedad,3,1
+2019-04-07,Getafe,Ath Bilbao,1,0
+2019-04-07,Levante,Huesca,2,2
+2019-04-07,Valladolid,Sevilla,0,2
+2019-04-13,Ath Madrid,Celta,2,0
+2019-04-13,Espanol,Alaves,2,1
+2019-04-13,Huesca,Barcelona,0,0
+2019-04-13,Sevilla,Betis,3,2
+2019-04-14,Ath Bilbao,Vallecano,3,2
+2019-04-14,Girona,Villarreal,0,1
+2019-04-14,Sociedad,Eibar,1,1
+2019-04-14,Valencia,Levante,3,1
+2019-04-14,Valladolid,Getafe,2,2
+2019-04-15,Leganes,Real Madrid,1,1
+2019-04-19,Alaves,Valladolid,2,2
+2019-04-20,Barcelona,Sociedad,2,1
+2019-04-20,Celta,Girona,2,1
+2019-04-20,Eibar,Ath Madrid,0,1
+2019-04-20,Vallecano,Huesca,0,0
+2019-04-21,Betis,Valencia,1,2
+2019-04-21,Getafe,Sevilla,3,0
+2019-04-21,Levante,Espanol,2,2
+2019-04-21,Real Madrid,Ath Bilbao,3,0
+2019-04-21,Villarreal,Leganes,2,1
+2019-04-23,Alaves,Barcelona,0,2
+2019-04-23,Huesca,Eibar,2,0
+2019-04-23,Valladolid,Girona,1,0
+2019-04-24,Ath Madrid,Valencia,3,2
+2019-04-24,Espanol,Celta,1,1
+2019-04-24,Leganes,Ath Bilbao,0,1
+2019-04-24,Levante,Betis,4,0
+2019-04-25,Getafe,Real Madrid,0,0
+2019-04-25,Sevilla,Vallecano,5,0
+2019-04-25,Sociedad,Villarreal,0,1
+2019-04-27,Ath Bilbao,Alaves,1,1
+2019-04-27,Ath Madrid,Valladolid,1,0
+2019-04-27,Barcelona,Levante,1,0
+2019-04-27,Leganes,Celta,0,0
+2019-04-28,Girona,Sevilla,1,0
+2019-04-28,Sociedad,Getafe,2,1
+2019-04-28,Valencia,Eibar,0,1
+2019-04-28,Vallecano,Real Madrid,1,0
+2019-04-28,Villarreal,Huesca,1,1
+2019-04-29,Betis,Espanol,1,1
+2019-05-03,Sevilla,Leganes,0,3
+2019-05-04,Alaves,Sociedad,0,1
+2019-05-04,Celta,Barcelona,2,0
+2019-05-04,Espanol,Ath Madrid,3,0
+2019-05-04,Levante,Vallecano,4,1
+2019-05-05,Eibar,Betis,1,0
+2019-05-05,Getafe,Girona,2,0
+2019-05-05,Huesca,Valencia,2,6
+2019-05-05,Real Madrid,Villarreal,3,2
+2019-05-05,Valladolid,Ath Bilbao,1,0
+2019-05-12,Ath Bilbao,Celta,3,1
+2019-05-12,Ath Madrid,Sevilla,1,1
+2019-05-12,Barcelona,Getafe,2,0
+2019-05-12,Betis,Huesca,2,1
+2019-05-12,Girona,Levante,1,2
+2019-05-12,Leganes,Espanol,0,2
+2019-05-12,Sociedad,Real Madrid,3,1
+2019-05-12,Valencia,Alaves,3,1
+2019-05-12,Vallecano,Valladolid,1,2
+2019-05-12,Villarreal,Eibar,1,0
+2019-05-18,Alaves,Girona,2,1
+2019-05-18,Celta,Vallecano,2,2
+2019-05-18,Espanol,Sociedad,2,0
+2019-05-18,Getafe,Villarreal,2,2
+2019-05-18,Huesca,Leganes,2,1
+2019-05-18,Levante,Ath Madrid,2,2
+2019-05-18,Sevilla,Ath Bilbao,2,0
+2019-05-18,Valladolid,Valencia,0,2
+2019-05-19,Eibar,Barcelona,2,2
+2019-05-19,Real Madrid,Betis,0,2
