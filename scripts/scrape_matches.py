@@ -23,6 +23,39 @@ driver = webdriver.Chrome(service=service, options=chrome_options)
 wait = WebDriverWait(driver, 20)
 print("→ Driver started")
 
+# -- HELPER FUNCTIONS ───────────────────────────────────────────────────────────
+
+def parse_iso_date(match_time, url):
+    """
+    Extract day/month from strings like "30.05. 12:30" and infer year
+    from the season in the URL (e.g. ".../2014-2015/...").
+    Months July-Dec -> start year (2014), Jan-June -> end year (2015).
+    Returns "YYYY-MM-DD".
+    """
+
+    # extract DD.MM
+    m = re.search(r'(\d{1,2})\.(\d{1,2})\.', match_time)
+    if not m:
+        print("Date not found:", match_time)
+        return None
+    day, mon = int(m.group(1)), int(m.group(2))
+
+    # find the YYYY-YYYY in the url or else YYYY
+    season = re.search(r'(\d{4})-(\d{4})', url)
+    if season:
+        start_year, end_year = map(int, season.groups())
+        year = start_year if mon >= 7 else end_year
+    else:
+        # 3) Fallback: first YYYY in the URL
+        single = re.search(r'(\d{4})', url)
+        if not single:
+            print("No year found in URL:", url)
+            return None
+        year = int(single.group(1))
+
+    return f"{year:04d}-{mon:02d}-{day:02d}"
+
+
 # ── LOAD URLS FROM links.csv ──────────────────────────────────────────────────
 with open('data/links-eng.csv', newline='', encoding='utf-8') as infile:
     reader = csv.reader(infile)
