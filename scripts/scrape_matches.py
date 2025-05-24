@@ -10,6 +10,10 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import NoSuchElementException
 
 # ── CONFIGURE CHROMEDRIVER ─────────────────────────────────────────────────────
+# need to install chromedriver:
+''' 
+$ brew install --cask chromedriver
+'''
 CHROMEDRIVER_PATH = '/opt/homebrew/bin/chromedriver'
 chrome_options = Options()
 chrome_options.add_argument("--headless")
