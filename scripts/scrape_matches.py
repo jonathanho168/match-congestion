@@ -23,6 +23,9 @@ driver = webdriver.Chrome(service=service, options=chrome_options)
 wait = WebDriverWait(driver, 20)
 print("→ Driver started")
 
+DATASOURCES = '../links/spain_links.csv'
+OUTPUT_FILE = '../results/all_spain_matches.csv'
+
 # -- HELPER FUNCTIONS ───────────────────────────────────────────────────────────
 
 def parse_iso_date(match_time, url):
@@ -57,14 +60,14 @@ def parse_iso_date(match_time, url):
 
 
 # ── LOAD URLS FROM links.csv ──────────────────────────────────────────────────
-with open('data/links-eng.csv', newline='', encoding='utf-8') as infile:
+with open(DATASOURCES, newline='', encoding='utf-8') as infile:
     reader = csv.reader(infile)
     urls = [row[0] for row in reader if row]
 
 # ── OPEN matches.csv FOR OUTPUT ────────────────────────────────────────────────
-with open('results/matches-eng.csv', 'w', newline='', encoding='utf-8') as outfile:
+with open(OUTPUT_FILE, 'w', newline='', encoding='utf-8') as outfile:
     writer = csv.writer(outfile)
-    writer.writerow(['url', 'match_time', 'home', 'away'])
+    writer.writerow(['team', 'iso_date'])
     
     # ── PROCESS EACH URL ─────────────────────────────────────────────────────
     for url in urls:
@@ -135,9 +138,11 @@ with open('results/matches-eng.csv', 'w', newline='', encoding='utf-8') as outfi
                 away = re.sub(r"\s*\d+$", "", raw_away).strip()
 
                 # write to CSV
-                writer.writerow([url, match_time, home, away])
-                # still print to terminal
-                print(f"{match_time} — {home} vs {away}")
+                iso_date = parse_iso_date(match_time, url)
+                writer.writerow([home, iso_date])
+                writer.writerow([away, iso_date])
+                # still print to terminal (execution trace)
+                print(f"  {match_time} — {home} vs {away} (ISO: {iso_date})")
             except NoSuchElementException as e:
                 print("  PARSE ERROR:", e)
 
